@@ -1,706 +1,2757 @@
-#EXTM3U
- 
-#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
- 
-################################################################################# Informações da Lista
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",(44)991045772
-https://www.youtube.com/channel/UCojJlq
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",RamalhoTV
- https://www.youtube.com/channel/UCojJlqr-L
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:09/04/2022 
-https://www.youtube.com/channel/UCojJlqr-L
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
-https://www.youtube.com/channel/UCojJlqr-
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
-https://www.youtube.com/channel/UCojJlqr-L
- 
 
-#EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/canalAeELG.png" group-title="FILMES E SERIES",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/458
-#EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/canalAeELG.png" group-title="FILMES E SERIES",A&E UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/300
-#EXTINF:-1 tvg-id="" tvg-name="AGRO MAIS UHD" tvg-logo="http://xplussport.com:8080/images/226fe8c7433897bf3ca3d80d0bcea1cf.png" group-title="ENTRETENIMENTO",AGRO MAIS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/547
-#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/AMCCANALLG.png" group-title="FILMES E SERIES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/301
-#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/AMCCANALLG.png" group-title="FILMES E SERIES",AMC UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/425
-#EXTINF:-1 tvg-id="476c98e227890f9477494c87171291cb" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ANIMALPLANETHDEUHDLG.png" group-title="4K",ANIMAL PLANET 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/522
-#EXTINF:-1 tvg-id="476c98e227890f9477494c87171291cb" tvg-name="ANIMAL PLANET HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ANIMALPLANETHDEUHDLG.png" group-title="CULTURA",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/302
-#EXTINF:-1 tvg-id="476c98e227890f9477494c87171291cb" tvg-name="ANIMAL PLANET UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ANIMALPLANETHDEUHDLG.png" group-title="CULTURA",ANIMAL PLANET UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/436
-#EXTINF:-1 tvg-id="ef63a7c988fa701584409af1510fc618" tvg-name="ARTE 1 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ARTE1HDLG.png" group-title="FILMES E SERIES",ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/303
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 UHD " tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ARTE1HDLG.png" group-title="FILMES E SERIES",ARTE 1 UHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/426
-#EXTINF:-1 tvg-id="ae9b072c84284681d992d96359460c90" tvg-name="AXN HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/AXNHDEUHDLG.png" group-title="FILMES E SERIES",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/304
-#EXTINF:-1 tvg-id="ae9b072c84284681d992d96359460c90" tvg-name="AXN UHD " tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/AXNHDEUHDLG.png" group-title="FILMES E SERIES",AXN UHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/427
-#EXTINF:-1 tvg-id="218e54a9d8f3858738e260ea2e7a4dc9" tvg-name="BAND 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/BANDUHDEHD2LG.png" group-title="4K",BAND 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/538
-#EXTINF:-1 tvg-id="218e54a9d8f3858738e260ea2e7a4dc9" tvg-name="BAND HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/BANDUHDEHD2LG.png" group-title="ABERTOS",BAND HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/305
-#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/BANDNEWSLG.png" group-title="4K",BAND NEWS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/537
-#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/BANDNEWSLG.png" group-title="NOTICIAS",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/308
-#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/BANDNEWSLG.png" group-title="NOTICIAS",BAND NEWS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/307
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/BANDUHDEHD2LG.png" group-title="ABERTOS",BAND SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/613
-#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/BANDSPORTSHDEUHDLG.png" group-title="ESPORTE",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/310
-#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/BANDSPORTSHDEUHDLG.png" group-title="ESPORTE",BAND SPORTS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/309
-#EXTINF:-1 tvg-id="218e54a9d8f3858738e260ea2e7a4dc9" tvg-name="BAND UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/BANDUHDEHD2LG.png" group-title="ABERTOS",BAND UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/306
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png" group-title="ESPORTE INTERNACIONAL",beIN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/597
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png" group-title="ESPORTE INTERNACIONAL",beIN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/598
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png" group-title="ESPORTE INTERNACIONAL",beIN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/599
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png" group-title="ESPORTE INTERNACIONAL",beIN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/600
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png" group-title="ESPORTE INTERNACIONAL",beIN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/601
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png" group-title="ESPORTE INTERNACIONAL",beIN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/602
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png" group-title="ESPORTE INTERNACIONAL",beIN SPORTS 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/603
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 1" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png" group-title="ESPORTE INTERNACIONAL",beIN SPORTS PREMIUM 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/604
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 2" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png" group-title="ESPORTE INTERNACIONAL",beIN SPORTS PREMIUM 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/605
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 3" tvg-logo="http://xplussport.com:8080/images/6cc9cfce1896bdbe6d78528913150cb8.png" group-title="ESPORTE INTERNACIONAL",beIN SPORTS PREMIUM 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/606
-#EXTINF:-1 tvg-id="aa4fa98423e14ecd6154eaaa770d2f80" tvg-name="BIS UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/BISHDLG.png" group-title="VARIEDADES",BIS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/452
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 01 UHD" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 22",CAMERA 01 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/607
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 02 UHD" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 22",CAMERA 02 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/608
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 03 UHD" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 22",CAMERA 03 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/609
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 04 UHD" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 22",CAMERA 04 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/610
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 01 " tvg-logo="http://xplussport.com:8080/images/6e197f40d47f9f043e0f69365f6246d5.png" group-title="ESPORTE PREMIUM",CAMPEONATO CARIOCA 01 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/617
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 02" tvg-logo="http://xplussport.com:8080/images/6e197f40d47f9f043e0f69365f6246d5.png" group-title="ESPORTE PREMIUM",CAMPEONATO CARIOCA 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/618
-#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL UHD" tvg-logo="http://xplussport.com:8080/images/f299b81757f5a9a2f3c25e90ee816cef.png" group-title="ENTRETENIMENTO",CANAL BRASIL UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/543
-#EXTINF:-1 tvg-id="6e57d77806b180634ba62a9c1d5dbc8b" tvg-name="CANAL DO BOI HD" tvg-logo="http://xplussport.com:8080/images/52883a565c78a8d46e89d3f673e64262.png" group-title="ENTRETENIMENTO",CANAL DO BOI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/552
-#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/CARTOONHDLG.png" group-title="INFANTIL",CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/252
-#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/CARTOONHDLG.png" group-title="INFANTIL",CARTOON NETWORK UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/251
-#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="http://xplussport.com:8080/images/528543010306258943c569ab1afb230f.png" group-title="4K",CARTOONITO 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/530
-#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="http://xplussport.com:8080/images/528543010306258943c569ab1afb230f.png" group-title="INFANTIL",CARTOONITO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/281
-#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO UHD" tvg-logo="http://xplussport.com:8080/images/528543010306258943c569ab1afb230f.png" group-title="INFANTIL",CARTOONITO UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/280
-#EXTINF:-1 tvg-id="a7859a4a1c7f67b8a96942487dbb3468" tvg-name="CINEMAX HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/CINEMAXUHDEHDLG.png" group-title="FILMES E SERIES",CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/311
-#EXTINF:-1 tvg-id="a7859a4a1c7f67b8a96942487dbb3468" tvg-name="CINEMAX UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/CINEMAXUHDEHDLG.png" group-title="FILMES E SERIES",CINEMAX UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/312
-#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/CNNBRASILLG.png" group-title="4K",CNN BRASIL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/518
-#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/CNNBRASILLG.png" group-title="NOTICIAS",CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/313
-#EXTINF:-1 tvg-id="5be2136ed519c135699791e245ad9433" tvg-name="CNN ESPANHOL HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/CNNESPANHOLLG.png" group-title="NOTICIAS",CNN ESPANHOL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/315
-#EXTINF:-1 tvg-id="52e622950dcda02c65c715cd25ee7073" tvg-name="COMBATE 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/COMBATEUHDLG.png" group-title="4K",COMBATE 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/502
-#EXTINF:-1 tvg-id="52e622950dcda02c65c715cd25ee7073" tvg-name="COMBATE HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/COMBATEUHDLG.png" group-title="ESPORTE",COMBATE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/283
-#EXTINF:-1 tvg-id="52e622950dcda02c65c715cd25ee7073" tvg-name="COMBATE UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/COMBATEUHDLG.png" group-title="ESPORTE",COMBATE UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/282
-#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL 4k" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/comedycentral2LG.png" group-title="4K",COMEDY CENTRAL 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/513
-#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/comedycentral2LG.png" group-title="VARIEDADES",COMEDY CENTRAL UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/446
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 01 UHD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTE PREMIUM",CONMEBOL TV 01 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/634
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 02 UHD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTE PREMIUM",CONMEBOL TV 02 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/635
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 03 UHD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTE PREMIUM",CONMEBOL TV 03 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/637
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 04 UHD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTE PREMIUM",CONMEBOL TV 04 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/636
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 1" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="ESPORTE PREMIUM",COPA DO BRASIL 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/614
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 2" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="ESPORTE PREMIUM",COPA DO BRASIL 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/615
-#EXTINF:-1 tvg-id="76ee0cab054dfa3a2e6ed9783d82d598" tvg-name="CURTA! 4K" tvg-logo="http://xplussport.com:8080/images/6bda299cca40ffbbca3905fb5c090d36.png" group-title="4K",CURTA! 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/539
-#EXTINF:-1 tvg-id="76ee0cab054dfa3a2e6ed9783d82d598" tvg-name="CURTA! HD" tvg-logo="http://xplussport.com:8080/images/6bda299cca40ffbbca3905fb5c090d36.png" group-title="VARIEDADES",CURTA! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/316
-#EXTINF:-1 tvg-id="76ee0cab054dfa3a2e6ed9783d82d598" tvg-name="CURTA! UHD" tvg-logo="http://xplussport.com:8080/images/6bda299cca40ffbbca3905fb5c090d36.png" group-title="VARIEDADES",CURTA! UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/317
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/danz1LG.png" group-title="ESPORTE PREMIUM",DAZN 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/459
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/danz2LG.png" group-title="ESPORTE PREMIUM",DAZN 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/460
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/danz3LG.png" group-title="ESPORTE PREMIUM",DAZN 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/461
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 UHD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4.png?fit=440%2C264&ssl=1" group-title="ESPORTE PREMIUM",DAZN 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/462
-#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISCOVERYCHANNELG.png" group-title="4K",DISCOVERY CHANNEL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/521
-#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISCOVERYCHANNELG.png" group-title="CULTURA",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/318
-#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISCOVERYCHANNELG.png" group-title="CULTURA",DISCOVERY CHANNEL UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/319
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY H&H 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HeHDISCOVERYHDeUHDLG.png" group-title="4K",DISCOVERY H&H 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/523
-#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="DISCOVERY H&H HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HeHDISCOVERYHDeUHDLG.png" group-title="CULTURA",DISCOVERY H&H HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/320
-#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="DISCOVERY H&H UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HeHDISCOVERYHDeUHDLG.png" group-title="CULTURA",DISCOVERY H&H UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/432
-#EXTINF:-1 tvg-id="ae49728b553d30a8864c6ea86f1dd244" tvg-name="DISCOVERY ID HD" tvg-logo="http://xplussport.com:8080/images/01db1d51f1a8e75ba3a360edc60fa6f9.png" group-title="FILMES E SERIES",DISCOVERY ID HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/369
-#EXTINF:-1 tvg-id="ae49728b553d30a8864c6ea86f1dd244" tvg-name="DISCOVERY ID UHD" tvg-logo="http://xplussport.com:8080/images/01db1d51f1a8e75ba3a360edc60fa6f9.png" group-title="FILMES E SERIES",DISCOVERY ID UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/370
-#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISCOVERYKIDSHDEUHDLG.png" group-title="INFANTIL",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/255
-#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISCOVERYKIDSHDEUHDLG.png" group-title="INFANTIL",DISCOVERY KIDS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/254
-#EXTINF:-1 tvg-id="6c36a751ceba37796879f2c63a919b5c" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xplussport.com:8080/images/9cf3027f4e272350c3eeabf760cb1cba.png" group-title="CULTURA",DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/321
-#EXTINF:-1 tvg-id="6c36a751ceba37796879f2c63a919b5c" tvg-name="DISCOVERY SCIENCE UHD" tvg-logo="http://xplussport.com:8080/images/9cf3027f4e272350c3eeabf760cb1cba.png" group-title="CULTURA",DISCOVERY SCIENCE UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/435
-#EXTINF:-1 tvg-id="36c2f4fcb3bdb824f77795aab4ae42b3" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISCOVERYTHEATERLG.png" group-title="CULTURA",DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/322
-#EXTINF:-1 tvg-id="36c2f4fcb3bdb824f77795aab4ae42b3" tvg-name="DISCOVERY THEATER UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISCOVERYTHEATERLG.png" group-title="CULTURA",DISCOVERY THEATER UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/323
-#EXTINF:-1 tvg-id="db5244cc5810ef5c7920ea77642eb947" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISCOVERYTURBO.png" group-title="4K",DISCOVERY TURBO 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/520
-#EXTINF:-1 tvg-id="db5244cc5810ef5c7920ea77642eb947" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISCOVERYTURBO.png" group-title="CULTURA",DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/324
-#EXTINF:-1 tvg-id="db5244cc5810ef5c7920ea77642eb947" tvg-name="DISCOVERY TURBO UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISCOVERYTURBO.png" group-title="CULTURA",DISCOVERY TURBO UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/433
-#EXTINF:-1 tvg-id="83980477dcbd1bc6f3ba92c5e7356c59" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISCOVERYWORLDHDLG.png" group-title="CULTURA",DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/325
-#EXTINF:-1 tvg-id="83980477dcbd1bc6f3ba92c5e7356c59" tvg-name="DISCOVERY WORLD UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISCOVERYWORLDHDLG.png" group-title="CULTURA",DISCOVERY WORLD UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/434
-#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISNEYCHANELLG.png" group-title="INFANTIL",DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/257
-#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISNEYCHANELLG.png" group-title="INFANTIL",DISNEY CHANNEL UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/256
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CLASSICO 01 HD" tvg-logo="http://xplussport.com:8080/images/7e8e6a724bd1a6517cb1f2ac72defc66.png" group-title="INFANTIL",DISNEY CLASSICO 01 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/258
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CLASSICO 02 HD" tvg-logo="http://xplussport.com:8080/images/7e8e6a724bd1a6517cb1f2ac72defc66.png" group-title="INFANTIL",DISNEY CLASSICO 02 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/259
-#EXTINF:-1 tvg-id="0cc894794fcb1fce239d200dbbc534c0" tvg-name="DISNEY JR 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISNEYJUNIORLG.png" group-title="4K",DISNEY JR 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/527
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISNEYJUNIORLG.png" group-title="INFANTIL",DISNEY JR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/263
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/DISNEYJUNIORLG.png" group-title="INFANTIL",DISNEY JR UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/262
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV UHD" tvg-logo="http://xplussport.com:8080/images/e0bf5e5eded4bfcc64c89fb02f4e499c.png" group-title="ENTRETENIMENTO",DOG TV UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/549
-#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 4K" tvg-logo="http://xplussport.com:8080/images/5b45e9d2cf90885e6a9c915f81a25b1a.png" group-title="4K",E! 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/515
-#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! HD" tvg-logo="http://xplussport.com:8080/images/5b45e9d2cf90885e6a9c915f81a25b1a.png" group-title="VARIEDADES",E! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/326
-#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! UHD" tvg-logo="http://xplussport.com:8080/images/5b45e9d2cf90885e6a9c915f81a25b1a.png" group-title="VARIEDADES",E! UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/327
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN  5 UHD" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png" group-title="ESPORTE INTERNACIONAL",ELEVEN  5 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/574
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN  7 UHD" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png" group-title="ESPORTE INTERNACIONAL",ELEVEN  7 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/572
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN  8 UHD" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png" group-title="ESPORTE INTERNACIONAL",ELEVEN  8 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/571
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN  9 UHD" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png" group-title="ESPORTE INTERNACIONAL",ELEVEN  9 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/570
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 1 UHD" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png" group-title="ESPORTE INTERNACIONAL",ELEVEN 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/578
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2 UHD" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png" group-title="ESPORTE INTERNACIONAL",ELEVEN 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/577
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 3 UHD" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png" group-title="ESPORTE INTERNACIONAL",ELEVEN 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/576
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 4 UHD" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png" group-title="ESPORTE INTERNACIONAL",ELEVEN 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/575
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN 6 UHD" tvg-logo="http://xplussport.com:8080/images/1a77db9712eca24eb0de5fbfe7025c51.png" group-title="ESPORTE INTERNACIONAL",ELEVEN 6 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/573
-#EXTINF:-1 tvg-id="" tvg-name="EPTV CAMPINAS UHD" tvg-logo="" group-title="ABERTOS",EPTV CAMPINAS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/632
-#EXTINF:-1 tvg-id="4ceb89cf78c79f670f6dc02b1765f423" tvg-name="ESPN  HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ESPNBARSILHDEUHDLG.png" group-title="ESPORTE",ESPN  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/334
-#EXTINF:-1 tvg-id="4ceb89cf78c79f670f6dc02b1765f423" tvg-name="ESPN  UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ESPNBARSILHDEUHDLG.png" group-title="ESPORTE",ESPN  UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/335
-#EXTINF:-1 tvg-id="4ceb89cf78c79f670f6dc02b1765f423" tvg-name="ESPN 2 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ESPNBARSILHDEUHDLG.png" group-title="ESPORTE",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/330
-#EXTINF:-1 tvg-id="4ceb89cf78c79f670f6dc02b1765f423" tvg-name="ESPN 2 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ESPNBARSILHDEUHDLG.png" group-title="ESPORTE",ESPN 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/331
-#EXTINF:-1 tvg-id="aeab51e588f8e18a27e43aa5bb3d0827" tvg-name="ESPN 3 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ESPN2LG.png" group-title="ESPORTE",ESPN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/328
-#EXTINF:-1 tvg-id="aeab51e588f8e18a27e43aa5bb3d0827" tvg-name="ESPN 3 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ESPN2LG.png" group-title="ESPORTE",ESPN 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/329
-#EXTINF:-1 tvg-id="a3694659decfe49635161b993bc7c3a6" tvg-name="ESPN 4 4k" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="4K",ESPN 4 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/504
-#EXTINF:-1 tvg-id="a3694659decfe49635161b993bc7c3a6" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTE",ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/344
-#EXTINF:-1 tvg-id="a3694659decfe49635161b993bc7c3a6" tvg-name="ESPN 4 UHD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTE",ESPN 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/345
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ESNPEXTRAHDEARGLG.png" group-title="ESPORTE",ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/332
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/ESNPEXTRAHDEARGLG.png" group-title="ESPORTE",ESPN EXTRA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/333
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD" tvg-logo="http://xplussport.com:8080/images/cb4b17a59bff0dc91500b8731a2c5986.png" group-title="ENTRETENIMENTO",FASHION TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/550
-#EXTINF:-1 tvg-id="" tvg-name="FEC BEN 10" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC INFANTIL 24/7",FEC BEN 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/590
-#EXTINF:-1 tvg-id="" tvg-name="FEC CAVALEIROS DO ZODIACO " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC INFANTIL 24/7",FEC CAVALEIROS DO ZODIACO 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/591
-#EXTINF:-1 tvg-id="" tvg-name="FEC CAVERNA DO DRAGÃO" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC INFANTIL 24/7",FEC CAVERNA DO DRAGÃO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/592
-#EXTINF:-1 tvg-id="" tvg-name="FEC GALINHA PINTADINHA " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC INFANTIL 24/7",FEC GALINHA PINTADINHA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/593
-#EXTINF:-1 tvg-id="" tvg-name="FEC MENINAS SUPERPODEROSAS " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC INFANTIL 24/7",FEC MENINAS SUPERPODEROSAS 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/596
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 1" tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/556
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 10 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 10 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/565
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 11 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 11 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/566
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 12 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 12 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/567
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 13 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 13 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/568
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 14 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 14 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/569
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 2 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 2 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/557
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 3 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 3 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/558
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 4 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 4 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/559
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 5 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 5 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/560
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 6 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 6 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/561
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 7 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 7 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/562
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 8 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 8 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/563
-#EXTINF:-1 tvg-id="" tvg-name="FEC PIPOCA 9 " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC FILMES 24/7",FEC PIPOCA 9 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/564
-#EXTINF:-1 tvg-id="" tvg-name="FEC TIMÃO E PUMBA " tvg-logo="http://xplussport.com:8080/images/88a19e35699c6293586b559b5bd03f06.png" group-title="FEC INFANTIL 24/7",FEC TIMÃO E PUMBA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/595
-#EXTINF:-1 tvg-id="dd4766390e0409634178b12f087cb567" tvg-name="FILM & ARTS HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/FILMEARTSLG.png" group-title="FILMES E SERIES",FILM & ARTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/492
-#EXTINF:-1 tvg-id="dd4766390e0409634178b12f087cb567" tvg-name="FILM & ARTS UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/FILMEARTSLG.png" group-title="FILMES E SERIES",FILM & ARTS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/336
-#EXTINF:-1 tvg-id="ebf476b8a69a7e335883fa75e01720d0" tvg-name="FISH TV HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/FISHTVLG.png" group-title="CULTURA",FISH TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/337
-#EXTINF:-1 tvg-id="ebf476b8a69a7e335883fa75e01720d0" tvg-name="FISH TV UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/FISHTVLG.png" group-title="CULTURA",FISH TV UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/437
-#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/FOODNETWORKLG.png" group-title="VARIEDADES",FOOD NETWORK UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/338
-#EXTINF:-1 tvg-id="f59c512e2fe682c1b91167de085bc7aa" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/FOXSPORTS2UHDHDARGLG.png" group-title="ESPORTE",FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/342
-#EXTINF:-1 tvg-id="f59c512e2fe682c1b91167de085bc7aa" tvg-name="FOX SPORTS 2 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/FOXSPORTS2UHDHDARGLG.png" group-title="ESPORTE",FOX SPORTS 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/343
-#EXTINF:-1 tvg-id="899076abbcea9639918fb27bbcc85dd8" tvg-name="FUTURA HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/futurALG.png" group-title="VARIEDADES",FUTURA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/346
-#EXTINF:-1 tvg-id="899076abbcea9639918fb27bbcc85dd8" tvg-name="FUTURA UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/futurALG.png" group-title="VARIEDADES",FUTURA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/347
-#EXTINF:-1 tvg-id="816f1c140d095a098846951e0607aed0" tvg-name="FX HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/FXHDUHDLG.png" group-title="FILMES E SERIES",FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/484
-#EXTINF:-1 tvg-id="816f1c140d095a098846951e0607aed0" tvg-name="FX UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/FXHDUHDLG.png" group-title="FILMES E SERIES",FX UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/348
-#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA 4k" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBOBRASILIALG.png" group-title="4K",GLOBO BRASILIA 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/509
-#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBOBRASILIALG.png" group-title="ABERTOS",GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/290
-#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBOBRASILIALG.png" group-title="ABERTOS",GLOBO BRASILIA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/289
-#EXTINF:-1 tvg-id="e26375ad11fbc0740b725915057934f3" tvg-name="GLOBO MINAS 4k" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/globominas3LG.png" group-title="4K",GLOBO MINAS 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/507
-#EXTINF:-1 tvg-id="e26375ad11fbc0740b725915057934f3" tvg-name="GLOBO MINAS HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/globominas3LG.png" group-title="ABERTOS",GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/293
-#EXTINF:-1 tvg-id="e26375ad11fbc0740b725915057934f3" tvg-name="GLOBO MINAS UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/globominas3LG.png" group-title="ABERTOS",GLOBO MINAS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/284
-#EXTINF:-1 tvg-id="4c02e1f2b6a94acdc16c02bfa00e3176" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBORECIFELG.png" group-title="ABERTOS",GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/291
-#EXTINF:-1 tvg-id="4c02e1f2b6a94acdc16c02bfa00e3176" tvg-name="GLOBO NORDESTE UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBORECIFELG.png" group-title="ABERTOS",GLOBO NORDESTE UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/287
-#EXTINF:-1 tvg-id="globoportoalegre.br" tvg-name="GLOBO RBS PORTO ALEGRE 4K" tvg-logo="http://toptv2.com:25461/logos/RBS_TV.png" group-title="4K",GLOBO RBS PORTO ALEGRE 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/616
-#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ 4k" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBORJLG.png" group-title="4K",GLOBO RJ 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/508
-#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBORJLG.png" group-title="ABERTOS",GLOBO RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/292
-#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBORJLG.png" group-title="ABERTOS",GLOBO RJ UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/286
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA UHD" tvg-logo="" group-title="ABERTOS",GLOBO RPC CURITIBA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/620
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SANTOS UHD" tvg-logo="" group-title="ABERTOS",GLOBO SANTOS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/625
-#EXTINF:-1 tvg-id="30fb2667ef413d9a555281386fb5cbcb" tvg-name="GLOBO SP 4k" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBOSPUHDHDLG.png" group-title="4K",GLOBO SP 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/506
-#EXTINF:-1 tvg-id="30fb2667ef413d9a555281386fb5cbcb" tvg-name="GLOBO SP HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBOSPUHDHDLG.png" group-title="ABERTOS",GLOBO SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/294
-#EXTINF:-1 tvg-id="30fb2667ef413d9a555281386fb5cbcb" tvg-name="GLOBO SP UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBOSPUHDHDLG.png" group-title="ABERTOS",GLOBO SP UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/288
-#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOOBLG.png" group-title="4K",GLOOB 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/526
-#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOOBLG.png" group-title="INFANTIL",GLOOB HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/265
-#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOOBLG.png" group-title="INFANTIL",GLOOB UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/264
-#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBINHOLG.png" group-title="4K",GLOOBINHO 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/525
-#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBINHOLG.png" group-title="INFANTIL",GLOOBINHO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/267
-#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GLOBINHOLG.png" group-title="INFANTIL",GLOOBINHO UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/266
-#EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GNTLG.png" group-title="4K",GNT 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/517
-#EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/GNTLG.png" group-title="VARIEDADES",GNT UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/349
-#EXTINF:-1 tvg-id="13f42894e54171cad635f4de8547a646" tvg-name="H2 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HISTORY2HDLG.png" group-title="CULTURA",H2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/350
-#EXTINF:-1 tvg-id="13f42894e54171cad635f4de8547a646" tvg-name="H2 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HISTORY2HDLG.png" group-title="CULTURA",H2 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/438
-#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBO2UHDHDLG.png" group-title="FILMES E SERIES",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/353
-#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBO2UHDHDLG.png" group-title="FILMES E SERIES",HBO 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/354
-#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBOFAMILYHDUHDLG.png" group-title="FILMES E SERIES",HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/357
-#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBOFAMILYHDUHDLG.png" group-title="FILMES E SERIES",HBO FAMILY UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/358
-#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBO1UHDHDLG.png" group-title="FILMES E SERIES",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/355
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 UHD" tvg-logo="http://xplussport.com:8080/images/9f380f1892f1ee9ac11f09d38ee7a2be.png" group-title="ESPORTE PREMIUM",HBO MAX 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/463
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 UHD" tvg-logo="http://xplussport.com:8080/images/9f380f1892f1ee9ac11f09d38ee7a2be.png" group-title="ESPORTE PREMIUM",HBO MAX 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/464
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 UHD" tvg-logo="http://xplussport.com:8080/images/9f380f1892f1ee9ac11f09d38ee7a2be.png" group-title="ESPORTE PREMIUM",HBO MAX 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/465
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 UHD" tvg-logo="http://xplussport.com:8080/images/9f380f1892f1ee9ac11f09d38ee7a2be.png" group-title="ESPORTE PREMIUM",HBO MAX 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/466
-#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBOMUNDILG.png" group-title="FILMES E SERIES",HBO MUNDI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/367
-#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBOMUNDILG.png" group-title="FILMES E SERIES",HBO MUNDI UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/368
-#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO PLUS HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBOPLUSUHDHDLG.png" group-title="FILMES E SERIES",HBO PLUS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/361
-#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO PLUS UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBOPLUSUHDHDLG.png" group-title="FILMES E SERIES",HBO PLUS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/362
-#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBOPOPLG.png" group-title="FILMES E SERIES",HBO POP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/365
-#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBOPOPLG.png" group-title="FILMES E SERIES",HBO POP UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/366
-#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBOSIGNATURELG.png" group-title="FILMES E SERIES",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/359
-#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBOSIGNATURELG.png" group-title="FILMES E SERIES",HBO SIGNATURE UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/360
-#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBO1UHDHDLG.png" group-title="FILMES E SERIES",HBO UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/356
-#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBOXTREMELG.png" group-title="FILMES E SERIES",HBO XTREME HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/363
-#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HBOXTREMELG.png" group-title="FILMES E SERIES",HBO XTREME UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/364
-#EXTINF:-1 tvg-id="3bf7039c747b9600dcb773ad01fc0637" tvg-name="HGTV UHD" tvg-logo="http://xplussport.com:8080/images/b7899a72e09cbb4af16589b15b710513.png" group-title="ENTRETENIMENTO",HGTV UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/554
-#EXTINF:-1 tvg-id="1c7b354134490b8008a7aaacf28c82c9" tvg-name="HISTORY 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HISTORY1UHDEHDLG.png" group-title="4K",HISTORY 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/524
-#EXTINF:-1 tvg-id="1c7b354134490b8008a7aaacf28c82c9" tvg-name="HISTORY HD " tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HISTORY1UHDEHDLG.png" group-title="CULTURA",HISTORY HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/351
-#EXTINF:-1 tvg-id="1c7b354134490b8008a7aaacf28c82c9" tvg-name="HISTORY UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/HISTORY1UHDEHDLG.png" group-title="CULTURA",HISTORY UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/352
-#EXTINF:-1 tvg-id="" tvg-name="INTER TV CABUGI UHD" tvg-logo="" group-title="ABERTOS",INTER TV CABUGI UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/629
-#EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="http://xplussport.com:8080/images/c87c4806dfd42e40e55f92b257b6cf4f.png" group-title="ENTRETENIMENTO",LIFETIME HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/555
-#EXTINF:-1 tvg-id="" tvg-name="LIKE  HD" tvg-logo="http://xplussport.com:8080/images/4e4557287b2d8130e9a55c76c15a329d.png" group-title="ENTRETENIMENTO",LIKE  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/542
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="https://image.xumo.com/v1/channels/channel/99991398/300x300.png?type=smartCast_channelTile" group-title="VARIEDADES",LOVE NATURE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/431
-#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/pixmegapixuhdhdLG.png" group-title="FILMES E SERIES",MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/491
-#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/pixmegapixuhdhdLG.png" group-title="FILMES E SERIES",MEGAPIX UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/371
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM UHD" tvg-logo="http://xplussport.com:8080/images/8fb2caaa09fb1c05283fe55c3f6723bf.png" group-title="ENTRETENIMENTO",MODO VIAGEM UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/545
-#EXTINF:-1 tvg-id="" tvg-name="MOSAICO UHD" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 22",MOSAICO UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/611
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE UHD" tvg-logo="https://www.seekpng.com/png/detail/57-579021_file-mtv-live-svg-mtv-live-logo-png.png" group-title="VARIEDADES",MTV LIVE UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/443
-#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/mtvhdLG.png" group-title="VARIEDADES",MTV UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/453
-#EXTINF:-1 tvg-id="" tvg-name="MTV'S 00 4k" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/mtvhdLG.png" group-title="4K",MTV'S 00 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/512
-#EXTINF:-1 tvg-id="" tvg-name="MTV'S 00 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/mtvhdLG.png" group-title="VARIEDADES",MTV'S 00 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/454
-#EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW  4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/multishowuhdehdLG.png" group-title="4K",MULTISHOW  4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/516
-#EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/multishowuhdehdLG.png" group-title="VARIEDADES",MULTISHOW UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/372
-#EXTINF:-1 tvg-id="0468e9c61c2406180ed5df536b8e95d6" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/NATIONALGEOGRAPHICCHANNELLG.png" group-title="CULTURA",NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/373
-#EXTINF:-1 tvg-id="0468e9c61c2406180ed5df536b8e95d6" tvg-name="NATIONAL GEOGRAPHIC UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/NATIONALGEOGRAPHICCHANNELLG.png" group-title="CULTURA",NATIONAL GEOGRAPHIC UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/439
-#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/NICKJRLG.png" group-title="INFANTIL",NICK JR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/271
-#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/NICKJRLG.png" group-title="INFANTIL",NICK JR UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/270
-#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/NICKELODEONLG.png" group-title="4K",NICKELODEON 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/528
-#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/NICKELODEONLG.png" group-title="INFANTIL",NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/273
-#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/NICKELODEONLG.png" group-title="INFANTIL",NICKELODEON UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/272
-#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF HD" tvg-logo="http://xplussport.com:8080/images/9388500c6850c6fd71d0d3161ce45069.png" group-title="ENTRETENIMENTO",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/546
-#EXTINF:-1 tvg-id="5732a420f537fb46b10feeda7d2c52b5" tvg-name="PAI ETERNO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="4K",PAI ETERNO 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/536
-#EXTINF:-1 tvg-id="5732a420f537fb46b10feeda7d2c52b5" tvg-name="PAI ETERNO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="ABERTOS",PAI ETERNO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/428
-#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT 4K" tvg-logo="http://xplussport.com:8080/images/8963a6de4edb33ca23e7d4ae8d602158.png" group-title="4K",PARAMOUNT 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/541
-#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT HD" tvg-logo="http://xplussport.com:8080/images/8963a6de4edb33ca23e7d4ae8d602158.png" group-title="FILMES E SERIES",PARAMOUNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/375
-#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT UHD" tvg-logo="http://xplussport.com:8080/images/8963a6de4edb33ca23e7d4ae8d602158.png" group-title="FILMES E SERIES",PARAMOUNT UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/455
-#EXTINF:-1 tvg-id="b5381f02a7c15c61ffa98aef98a17153" tvg-name="PREMIERE 2 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFCHD2LG.png" group-title="4K",PREMIERE 2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/532
-#EXTINF:-1 tvg-id="b5381f02a7c15c61ffa98aef98a17153" tvg-name="PREMIERE 2 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFCHD2LG.png" group-title="ESPORTE",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/377
-#EXTINF:-1 tvg-id="b5381f02a7c15c61ffa98aef98a17153" tvg-name="PREMIERE 2 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFCHD2LG.png" group-title="ESPORTE",PREMIERE 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/482
-#EXTINF:-1 tvg-id="22c91dbf50b62270e636e4580a334f64" tvg-name="PREMIERE 3 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFCHD3LG.png" group-title="ESPORTE",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/378
-#EXTINF:-1 tvg-id="22c91dbf50b62270e636e4580a334f64" tvg-name="PREMIERE 3 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFCHD3LG.png" group-title="ESPORTE",PREMIERE 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/481
-#EXTINF:-1 tvg-id="9877d69b539e24abe50854d380b3ead3" tvg-name="PREMIERE 4 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFCHD4LG.png" group-title="ESPORTE",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/379
-#EXTINF:-1 tvg-id="9877d69b539e24abe50854d380b3ead3" tvg-name="PREMIERE 4 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFCHD4LG.png" group-title="ESPORTE",PREMIERE 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/480
-#EXTINF:-1 tvg-id="e283a922f2e62b3eb93a6c31e21a70ec" tvg-name="PREMIERE 5 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFC5HDLG.png" group-title="ESPORTE",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/380
-#EXTINF:-1 tvg-id="e283a922f2e62b3eb93a6c31e21a70ec" tvg-name="PREMIERE 5 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFC5HDLG.png" group-title="ESPORTE",PREMIERE 5 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/479
-#EXTINF:-1 tvg-id="c01003421239cbc0fb789944333ebc7a" tvg-name="PREMIERE 6 HD " tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFC6LG.png" group-title="ESPORTE",PREMIERE 6 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/381
-#EXTINF:-1 tvg-id="c01003421239cbc0fb789944333ebc7a" tvg-name="PREMIERE 6 UHD " tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFC6LG.png" group-title="ESPORTE",PREMIERE 6 UHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/478
-#EXTINF:-1 tvg-id="caea7ea0b318bf8708481a8339e6e562" tvg-name="PREMIERE 7 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFC7LG.png" group-title="ESPORTE",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/382
-#EXTINF:-1 tvg-id="caea7ea0b318bf8708481a8339e6e562" tvg-name="PREMIERE 7 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFC7LG.png" group-title="ESPORTE",PREMIERE 7 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/477
-#EXTINF:-1 tvg-id="5e16411ef98f27297132cd8064f0acaf" tvg-name="PREMIERE 8 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFC8LG.png" group-title="ESPORTE",PREMIERE 8 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/383
-#EXTINF:-1 tvg-id="5e16411ef98f27297132cd8064f0acaf" tvg-name="PREMIERE 8 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFC8LG.png" group-title="ESPORTE",PREMIERE 8 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/476
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 9 HD" tvg-logo="http://xplussport.com:8080/images/107d824017bb48a2da986be4e1f5fe2a.png" group-title="ESPORTE",PREMIERE 9 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/384
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 9 UHD" tvg-logo="http://xplussport.com:8080/images/107d824017bb48a2da986be4e1f5fe2a.png" group-title="ESPORTE",PREMIERE 9 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/475
-#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFCUDHHD1LG.png" group-title="4K",PREMIERE CLUBES 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/531
-#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFCUDHHD1LG.png" group-title="ESPORTE",PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/376
-#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE CLUBES UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/PFCUDHHD1LG.png" group-title="ESPORTE",PREMIERE CLUBES UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/483
-#EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/BOXBRAZILLG.png" group-title="FILMES E SERIES",PRIME BOX BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/386
-#EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/BOXBRAZILLG.png" group-title="FILMES E SERIES",PRIME BOX BRASIL UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/385
-#EXTINF:-1 tvg-id="" tvg-name="RECORD 4k" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/RECORDRJLG.png" group-title="4K",RECORD 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/511
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/RECORDRJLG.png" group-title="ABERTOS",RECORD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/387
-#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/RECORDNEWSLG.png" group-title="NOTICIAS",RECORD NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/388
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/RECORDRJLG.png" group-title="ABERTOS",RECORD RJ UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/633
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/RECORDRJLG.png" group-title="ABERTOS",RECORD UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/496
-#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA UHD" tvg-logo="" group-title="ABERTOS",REDE AMAZONICA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/622
-#EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/redetv.png" group-title="ABERTOS",REDE TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/389
-#EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/redetv.png" group-title="ABERTOS",REDE TV UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/495
-#EXTINF:-1 tvg-id="1418f5c4721e363d0c1a67496d3605d4" tvg-name="REDE VIDA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="VARIEDADES",REDE VIDA HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/390
-#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4k" tvg-logo="http://xplussport.com:8080/images/e1d537dcad86ffe02ba8b06d53290761.png" group-title="4K",SBT 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/510
-#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/sbt2LG.png" group-title="ABERTOS",SBT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/391
-#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/sbt2LG.png" group-title="ABERTOS",SBT UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/392
-#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/shimithLG.png" group-title="4K",SMITHSONIAN 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/535
-#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="SMITHSONIAN HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/shimithLG.png" group-title="CULTURA",SMITHSONIAN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/451
-#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="SMITHSONIAN UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/shimithLG.png" group-title="CULTURA",SMITHSONIAN UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/493
-#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/009233f8001e949aad9e2a7551ebcc5a.png" group-title="FILMES E SERIES",SONY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/393
-#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL UHD" tvg-logo="http://xplussport.com:8080/images/009233f8001e949aad9e2a7551ebcc5a.png" group-title="FILMES E SERIES",SONY CHANNEL UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/394
-#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/spacehdeuhdLG.png" group-title="FILMES E SERIES",SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/395
-#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/spacehdeuhdLG.png" group-title="FILMES E SERIES",SPACE UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/448
-#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 4k" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/spor%20tv1uhdehdLG.png" group-title="4K",SPORTV 1 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/503
-#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/spor%20tv1uhdehdLG.png" group-title="ESPORTE",SPORTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/396
-#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/spor%20tv1uhdehdLG.png" group-title="ESPORTE",SPORTV 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/474
-#EXTINF:-1 tvg-id="2ab405ed6f10dd88a1783b89c5283b56" tvg-name="SPORTV 2 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/sportv2uhdehdLG.png" group-title="4K",SPORTV 2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/533
-#EXTINF:-1 tvg-id="2ab405ed6f10dd88a1783b89c5283b56" tvg-name="SPORTV 2 HD " tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/sportv2uhdehdLG.png" group-title="ESPORTE",SPORTV 2 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/397
-#EXTINF:-1 tvg-id="2ab405ed6f10dd88a1783b89c5283b56" tvg-name="SPORTV 2 UHD " tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/sportv2uhdehdLG.png" group-title="ESPORTE",SPORTV 2 UHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/473
-#EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/sportv3hdeuhdLG.png" group-title="ESPORTE",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/398
-#EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/sportv3hdeuhdLG.png" group-title="ESPORTE",SPORTV 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/472
-#EXTINF:-1 tvg-id="d8d16009f5914039ea35ce24ba46af72" tvg-name="SPORTV 4 HD" tvg-logo="https://4.bp.blogspot.com/-6PAxnx2KIL8/WRztWqRfVKI/AAAAAAAA5kY/WH3cRpu__rIsX7Bpkh5ZjOLjP3PsSWBAQCLcB/s640/sportv4.png" group-title="ESPORTE",SPORTV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/430
-#EXTINF:-1 tvg-id="d8d16009f5914039ea35ce24ba46af72" tvg-name="SPORTV 4 UHD" tvg-logo="https://4.bp.blogspot.com/-6PAxnx2KIL8/WRztWqRfVKI/AAAAAAAA5kY/WH3cRpu__rIsX7Bpkh5ZjOLjP3PsSWBAQCLcB/s640/sportv4.png" group-title="ESPORTE",SPORTV 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/471
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 1 4k" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/%20STAR1AO4LG.png" group-title="4K",STAR + 1 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/505
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 1 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/%20STAR1AO4LG.png" group-title="ESPORTE PREMIUM",STAR + 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/467
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 2 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/%20STAR1AO4LG.png" group-title="ESPORTE PREMIUM",STAR + 2 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/468
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 3 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/%20STAR1AO4LG.png" group-title="ESPORTE PREMIUM",STAR + 3 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/469
-#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/starchannelLG.png" group-title="FILMES E SERIES",STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/490
-#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/starchannelLG.png" group-title="FILMES E SERIES",STAR CHANNEL UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/399
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/%20STAR1AO4LG.png" group-title="ESPORTE PREMIUM",STAR+ 4 UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/470
-#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://xplussport.com:8080/images/52397e3a2e54a5b8b21dc37612c183d0.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/489
-#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL UHD" tvg-logo="http://xplussport.com:8080/images/52397e3a2e54a5b8b21dc37612c183d0.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/444
-#EXTINF:-1 tvg-id="2ed30807ff0c5a5ea5800332ad988ba6" tvg-name="SYFY HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/syfyLG.png" group-title="FILMES E SERIES",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/488
-#EXTINF:-1 tvg-id="2ed30807ff0c5a5ea5800332ad988ba6" tvg-name="SYFY UHD " tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/syfyLG.png" group-title="FILMES E SERIES",SYFY UHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/400
-#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS HD " tvg-logo="http://xplussport.com:8080/images/ccbe97c5fd5031716c58657495926e87.png" group-title="FILMES E SERIES",TBS HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/401
-#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS UHD" tvg-logo="http://xplussport.com:8080/images/ccbe97c5fd5031716c58657495926e87.png" group-title="FILMES E SERIES",TBS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/487
-#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM HD" tvg-logo="http://xplussport.com:8080/images/585b7e96b59b07b31a32ada7bd293973.png" group-title="FILMES E SERIES",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/402
-#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HD " tvg-logo="http://xplussport.com:8080/images/25bfa2e47062b2dfdff48252aa65bc31.png" group-title="FILMES E SERIES",TELECINE ACTION HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/407
-#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION UHD" tvg-logo="http://xplussport.com:8080/images/25bfa2e47062b2dfdff48252aa65bc31.png" group-title="FILMES E SERIES",TELECINE ACTION UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/408
-#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD " tvg-logo="http://xplussport.com:8080/images/1c127bf7cacd67912d27413cc5d61e0e.png" group-title="FILMES E SERIES",TELECINE CULT HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/409
-#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT UHD " tvg-logo="http://xplussport.com:8080/images/1c127bf7cacd67912d27413cc5d61e0e.png" group-title="FILMES E SERIES",TELECINE CULT UHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/410
-#EXTINF:-1 tvg-id="a46d13a74579cf91484280c3771aad3b" tvg-name="TELECINE FUN HD" tvg-logo="http://xplussport.com:8080/images/3265c50b6acd9573148b9ecd4ba42940.png" group-title="FILMES E SERIES",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/411
-#EXTINF:-1 tvg-id="a46d13a74579cf91484280c3771aad3b" tvg-name="TELECINE FUN UHD" tvg-logo="http://xplussport.com:8080/images/3265c50b6acd9573148b9ecd4ba42940.png" group-title="FILMES E SERIES",TELECINE FUN UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/412
-#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA HD " tvg-logo="http://xplussport.com:8080/images/5734c757a10b2aa2032323d721e9de5c.png" group-title="FILMES E SERIES",TELECINE PIPOCA HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/413
-#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA UHD" tvg-logo="http://xplussport.com:8080/images/5734c757a10b2aa2032323d721e9de5c.png" group-title="FILMES E SERIES",TELECINE PIPOCA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/414
-#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://xplussport.com:8080/images/8cfce2c595f8cba6bf5f5201411d4750.png" group-title="FILMES E SERIES",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/415
-#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM UHD" tvg-logo="http://xplussport.com:8080/images/8cfce2c595f8cba6bf5f5201411d4750.png" group-title="FILMES E SERIES",TELECINE PREMIUM UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/416
-#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="http://xplussport.com:8080/images/006b8e328b9d1df0bda4615d721ed20d.png" group-title="FILMES E SERIES",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/417
-#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH UHD" tvg-logo="http://xplussport.com:8080/images/006b8e328b9d1df0bda4615d721ed20d.png" group-title="FILMES E SERIES",TELECINE TOUCH UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/418
-#EXTINF:-1 tvg-id="152266744258c8bc279c2dbdb87338f7" tvg-name="TLC HD " tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/TLCLG.png" group-title="CULTURA",TLC HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/403
-#EXTINF:-1 tvg-id="152266744258c8bc279c2dbdb87338f7" tvg-name="TLC UHD " tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/TLCLG.png" group-title="CULTURA",TLC UHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/404
-#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT HD " tvg-logo="http://xplussport.com:8080/images/d625b1c02554de1f6b0489988c99f27d.png" group-title="FILMES E SERIES",TNT HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/405
-#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/TNTSERIESUHDEHDLG.png" group-title="4K",TNT SERIES 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/540
-#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES HD " tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/TNTSERIESUHDEHDLG.png" group-title="FILMES E SERIES",TNT SERIES HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/406
-#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/TNTSERIESUHDEHDLG.png" group-title="FILMES E SERIES",TNT SERIES UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/486
-#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT UHD" tvg-logo="http://xplussport.com:8080/images/d625b1c02554de1f6b0489988c99f27d.png" group-title="FILMES E SERIES",TNT UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/447
-#EXTINF:-1 tvg-id="58cffaf314a9cfe1559b101844f07dc3" tvg-name="TOONCAST HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/toon2.png" group-title="INFANTIL",TOONCAST HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/275
-#EXTINF:-1 tvg-id="58cffaf314a9cfe1559b101844f07dc3" tvg-name="TOONCAST UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/toon2.png" group-title="INFANTIL",TOONCAST UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/274
-#EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA HD" tvg-logo="http://xplussport.com:8080/images/babd9771c1c1e2f29c4cb36be9818109.png" group-title="ENTRETENIMENTO",TRACE BRAZUCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/544
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL 4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/travelboxbraziLG.png" group-title="4K",TRAVEL BOX BRASIL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/534
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/travelboxbraziLG.png" group-title="VARIEDADES",TRAVEL BOX BRASIL UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/442
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA GOIANIA UHD" tvg-logo="" group-title="ABERTOS",TV ANHANGUERA GOIANIA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/624
-#EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="http://xplussport.com:8080/images/b6a842814eea07710529578743a15341.png" group-title="ENTRETENIMENTO",TV APARECIDA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/553
-#EXTINF:-1 tvg-id="9fbb20e93f9118ff3cfe19fcbe904fe8" tvg-name="TV BRASIL HD" tvg-logo="http://xplussport.com:8080/images/7dfec6d0f7ea853f28bb154ac4566a64.png" group-title="ENTRETENIMENTO",TV BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/548
-#EXTINF:-1 tvg-id="1594718929490742a7e44dd6e5a80a63" tvg-name="TV CAMARA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="ABERTOS",TV CAMARA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/299
-#EXTINF:-1 tvg-id="" tvg-name="TV CENTRO AMERICA CUIABA UHD" tvg-logo="" group-title="ABERTOS",TV CENTRO AMERICA CUIABA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/630
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA UHD" tvg-logo="http://toptv2.com:25461/logos/tv-cultura.png" group-title="VARIEDADES",TV CULTURA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/639
-#EXTINF:-1 tvg-id="e3fea77e5d1bef54bff1b2bebb6e4a3c" tvg-name="TV ESCOLA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="ABERTOS",TV ESCOLA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/298
-#EXTINF:-1 tvg-id="" tvg-name="TV MORENA UHD" tvg-logo="" group-title="ABERTOS",TV MORENA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/638
-#EXTINF:-1 tvg-id="569aa491db479c3f116c909a7134e993" tvg-name="TV NOVO TEMPO UHD" tvg-logo="http://xplussport.com:8080/images/b51ff808fcf95df6e490ee5a0520cb37.png" group-title="ENTRETENIMENTO",TV NOVO TEMPO UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/551
-#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM  4K" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/TVRATIMBUMLG.png" group-title="4K",TV RA TIM BUM  4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/529
-#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM HD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/TVRATIMBUMLG.png" group-title="INFANTIL",TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/277
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM BAURU UHD" tvg-logo="" group-title="ABERTOS",TV TEM BAURU UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/623
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM SAO JOSE DO RIO PRETO" tvg-logo="" group-title="ABERTOS",TV TEM SAO JOSE DO RIO PRETO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/627
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM SOROCABA UHD" tvg-logo="" group-title="ABERTOS",TV TEM SOROCABA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/631
-#EXTINF:-1 tvg-id="" tvg-name="TV VANGUARDA S. J DOS CAMPOS" tvg-logo="" group-title="ABERTOS",TV VANGUARDA S. J DOS CAMPOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/628
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDES MARES UHD" tvg-logo="" group-title="ABERTOS",TV VERDES MARES UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/621
-#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5b6f110dd4ba9cab91e79af679dce8fe.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/419
-#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL UHD" tvg-logo="http://xplussport.com:8080/images/5b6f110dd4ba9cab91e79af679dce8fe.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/485
-#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png" group-title="4K",VIVA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/514
-#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA HD " tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png" group-title="VARIEDADES",VIVA HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/420
-#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA UHD" tvg-logo="http://xplussport.com:8080/images/97f6658bae011076aa77a722b9e613f0.png" group-title="VARIEDADES",VIVA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/421
-#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL HD " tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/WHARNERCHANNELLG.png" group-title="FILMES E SERIES",WARNER CHANNEL HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/422
-#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL UHD" tvg-logo="http://logo.mokh10.xyz:2095/LGTOTT/WHARNERCHANNELLG.png" group-title="FILMES E SERIES",WARNER CHANNEL UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/423
-#EXTINF:-1 tvg-id="91dde19254a54cab76902ca6d52cc7aa" tvg-name="WOOHOO HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="VARIEDADES",WOOHOO HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)991045772;&buffer=60000;url=http://37.58.50.28:2095/Tourobox1-lives8102794456/1979476437/424
+ 
+#EXTM3U
+#EXTINF:-1,A&E FHD
+http://axr.life:80/00006712/MF159357C/5189
+#EXTINF:-1,A&E FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923875
+#EXTINF:-1,A&E H265 DUALAUDIO
+http://axr.life:80/00006712/MF159357C/923202
+#EXTINF:-1,A&E HD
+http://axr.life:80/00006712/MF159357C/5040
+#EXTINF:-1,A&E HD (ALT)
+http://axr.life:80/00006712/MF159357C/922977
+#EXTINF:-1,A&E SD
+http://axr.life:80/00006712/MF159357C/5394
+#EXTINF:-1,A&E SD (ALT)
+http://axr.life:80/00006712/MF159357C/923404
+#EXTINF:-1,AGRO + HD
+http://axr.life:80/00006712/MF159357C/373933
+#EXTINF:-1,AMC FHD
+http://axr.life:80/00006712/MF159357C/5190
+#EXTINF:-1,AMC FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923864
+#EXTINF:-1,AMC FHD DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923203
+#EXTINF:-1,AMC HD
+http://axr.life:80/00006712/MF159357C/5041
+#EXTINF:-1,AMC HD (ALT)
+http://axr.life:80/00006712/MF159357C/922978
+#EXTINF:-1,AMC SD
+http://axr.life:80/00006712/MF159357C/5395
+#EXTINF:-1,AMC SD (ALT)
+http://axr.life:80/00006712/MF159357C/923405
+#EXTINF:-1,ANIMAL PLANET FHD
+http://axr.life:80/00006712/MF159357C/5191
+#EXTINF:-1,ANIMAL PLANET FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923830
+#EXTINF:-1,ANIMAL PLANET H265 
+http://axr.life:80/00006712/MF159357C/923204
+#EXTINF:-1,ANIMAL PLANET HD
+http://axr.life:80/00006712/MF159357C/5042
+#EXTINF:-1,ANIMAL PLANET HD (ALT)
+http://axr.life:80/00006712/MF159357C/922979
+#EXTINF:-1,ANIMAL PLANET SD
+http://axr.life:80/00006712/MF159357C/5396
+#EXTINF:-1,ANIMAL PLANET SD (ALT)
+http://axr.life:80/00006712/MF159357C/923406
+#EXTINF:-1,ARTE 1 FHD
+http://axr.life:80/00006712/MF159357C/38424
+#EXTINF:-1,ARTE 1 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923900
+#EXTINF:-1,ARTE 1 HD
+http://axr.life:80/00006712/MF159357C/17923
+#EXTINF:-1,ARTE 1 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923102
+#EXTINF:-1,ARTE 1 SD
+http://axr.life:80/00006712/MF159357C/923561
+#EXTINF:-1,AXN FHD
+http://axr.life:80/00006712/MF159357C/5192
+#EXTINF:-1,AXN FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923861
+#EXTINF:-1,AXN FHD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923707
+#EXTINF:-1,AXN H265 
+http://axr.life:80/00006712/MF159357C/923205
+#EXTINF:-1,AXN HD
+http://axr.life:80/00006712/MF159357C/5043
+#EXTINF:-1,AXN HD (ALT)
+http://axr.life:80/00006712/MF159357C/922980
+#EXTINF:-1,AXN HD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923708
+#EXTINF:-1,AXN SD
+http://axr.life:80/00006712/MF159357C/5397
+#EXTINF:-1,AXN SD (ALT)
+http://axr.life:80/00006712/MF159357C/923407
+#EXTINF:-1,BABY TV HD
+http://axr.life:80/00006712/MF159357C/38437
+#EXTINF:-1,BABY TV SD
+http://axr.life:80/00006712/MF159357C/923408
+#EXTINF:-1,BAND BAHIA HD
+http://axr.life:80/00006712/MF159357C/923409
+#EXTINF:-1,BAND BAHIA HD (ALT)
+http://axr.life:80/00006712/MF159357C/32955
+#EXTINF:-1,Band BSB HD
+http://axr.life:80/00006712/MF159357C/923301
+#EXTINF:-1,BAND CAMPINAS FHD
+http://axr.life:80/00006712/MF159357C/923367
+#EXTINF:-1,BAND CAMPINAS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/453189
+#EXTINF:-1,BAND CAMPINAS HD
+http://axr.life:80/00006712/MF159357C/923302
+#EXTINF:-1,BAND CAMPINAS HD (ALT)
+http://axr.life:80/00006712/MF159357C/453182
+#EXTINF:-1,BAND CURITIBA FHD
+http://axr.life:80/00006712/MF159357C/923387
+#EXTINF:-1,BAND CURITIBA HD
+http://axr.life:80/00006712/MF159357C/923361
+#EXTINF:-1,BAND ES HD (ALT)
+http://axr.life:80/00006712/MF159357C/453194
+#EXTINF:-1,BAND FHD (ALT)
+http://axr.life:80/00006712/MF159357C/5289
+#EXTINF:-1,BAND GOIANIA H265
+http://axr.life:80/00006712/MF159357C/923286
+#EXTINF:-1,BAND GOIANIA HD
+http://axr.life:80/00006712/MF159357C/923060
+#EXTINF:-1,BAND HD (ALT)
+http://axr.life:80/00006712/MF159357C/68519
+#EXTINF:-1,BAND MINAS FHD
+http://axr.life:80/00006712/MF159357C/923401
+#EXTINF:-1,BAND MINAS HD
+http://axr.life:80/00006712/MF159357C/923400
+#EXTINF:-1,BAND NEWS FHD
+http://axr.life:80/00006712/MF159357C/5193
+#EXTINF:-1,BAND NEWS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923890
+#EXTINF:-1,BAND NEWS H265
+http://axr.life:80/00006712/MF159357C/923206
+#EXTINF:-1,BAND NEWS HD
+http://axr.life:80/00006712/MF159357C/5160
+#EXTINF:-1,BAND NEWS HD (ALT)
+http://axr.life:80/00006712/MF159357C/923075
+#EXTINF:-1,BAND NEWS SD
+http://axr.life:80/00006712/MF159357C/5401
+#EXTINF:-1,BAND NEWS SD (ALT)
+http://axr.life:80/00006712/MF159357C/923411
+#EXTINF:-1,BAND PARANA HD
+http://axr.life:80/00006712/MF159357C/923341
+#EXTINF:-1,BAND PR HD (ALT)
+http://axr.life:80/00006712/MF159357C/453190
+#EXTINF:-1,BAND RJ FHD
+http://axr.life:80/00006712/MF159357C/923294
+#EXTINF:-1,BAND RJ FHD (ALT)
+http://axr.life:80/00006712/MF159357C/453180
+#EXTINF:-1,BAND RJ HD
+http://axr.life:80/00006712/MF159357C/923303
+#EXTINF:-1,BAND RJ HD (ALT)
+http://axr.life:80/00006712/MF159357C/453183
+#EXTINF:-1,BAND RS HD
+http://axr.life:80/00006712/MF159357C/923304
+#EXTINF:-1,BAND SD
+http://axr.life:80/00006712/MF159357C/923410
+#EXTINF:-1,BAND SERGIPE HD
+http://axr.life:80/00006712/MF159357C/923305
+#EXTINF:-1,BAND SP FHD
+http://axr.life:80/00006712/MF159357C/923892
+#EXTINF:-1,BAND SP FHD (ALT)
+http://axr.life:80/00006712/MF159357C/453195
+#EXTINF:-1,Band SP HD
+http://axr.life:80/00006712/MF159357C/923306
+#EXTINF:-1,BAND SP HD (ALT)
+http://axr.life:80/00006712/MF159357C/453186
+#EXTINF:-1,Band SP SD (ALT)
+http://axr.life:80/00006712/MF159357C/453188
+#EXTINF:-1,BAND SPORTS FHD
+http://axr.life:80/00006712/MF159357C/5194
+#EXTINF:-1,BAND SPORTS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923794
+#EXTINF:-1,BAND SPORTS H265
+http://axr.life:80/00006712/MF159357C/923207
+#EXTINF:-1,BAND SPORTS HD
+http://axr.life:80/00006712/MF159357C/5044
+#EXTINF:-1,BAND SPORTS HD (ALT)
+http://axr.life:80/00006712/MF159357C/922981
+#EXTINF:-1,BAND SPORTS SD
+http://axr.life:80/00006712/MF159357C/5402
+#EXTINF:-1,BAND SPORTS SD (ALT)
+http://axr.life:80/00006712/MF159357C/923412
+#EXTINF:-1,BBC WORLD FHD
+http://axr.life:80/00006712/MF159357C/923904
+#EXTINF:-1,BBC WORLD HD
+http://axr.life:80/00006712/MF159357C/923106
+#EXTINF:-1,BIGASS HD
+http://axr.life:80/00006712/MF159357C/368829
+#EXTINF:-1,BIGDICK HD
+http://axr.life:80/00006712/MF159357C/368830
+#EXTINF:-1,BIS FHD
+http://axr.life:80/00006712/MF159357C/5195
+#EXTINF:-1,BIS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923905
+#EXTINF:-1,BIS H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923208
+#EXTINF:-1,BIS HD
+http://axr.life:80/00006712/MF159357C/5045
+#EXTINF:-1,BIS HD (ALT)
+http://axr.life:80/00006712/MF159357C/922982
+#EXTINF:-1,BIS SD
+http://axr.life:80/00006712/MF159357C/5403
+#EXTINF:-1,BIS SD (ALT)
+http://axr.life:80/00006712/MF159357C/923413
+#EXTINF:-1,BLOWJOB HD
+http://axr.life:80/00006712/MF159357C/368832
+#EXTINF:-1,BLUE HUSTLER
+http://axr.life:80/00006712/MF159357C/923913
+#EXTINF:-1,BOA VONTADE SD
+http://axr.life:80/00006712/MF159357C/923562
+#EXTINF:-1,BOAS NOVAS SD
+http://axr.life:80/00006712/MF159357C/374354
+#EXTINF:-1,BOOMERANG FHD
+http://axr.life:80/00006712/MF159357C/923848
+#EXTINF:-1,BOOMERANG H265
+http://axr.life:80/00006712/MF159357C/923209
+#EXTINF:-1,BOOMERANG HD (ALT)
+http://axr.life:80/00006712/MF159357C/923094
+#EXTINF:-1,BOOMERANG SD
+http://axr.life:80/00006712/MF159357C/923414
+#EXTINF:-1,CANAL BRASIL HD
+http://axr.life:80/00006712/MF159357C/68534
+#EXTINF:-1,CANAL BRASIL HD (ALT)
+http://axr.life:80/00006712/MF159357C/923107
+#EXTINF:-1,CANAL BRASIL SD (ALT)
+http://axr.life:80/00006712/MF159357C/923415
+#EXTINF:-1,CANAL DO BOI HD
+http://axr.life:80/00006712/MF159357C/45307
+#EXTINF:-1,CANAL DO BOI SD
+http://axr.life:80/00006712/MF159357C/923416
+#EXTINF:-1,CANAL RURAL HD
+http://axr.life:80/00006712/MF159357C/373935
+#EXTINF:-1,CANAL RURAL SD
+http://axr.life:80/00006712/MF159357C/923168
+#EXTINF:-1,CANAL SONY  H265 :
+http://axr.life:80/00006712/MF159357C/923211
+#EXTINF:-1,CANAL SONY FHD
+http://axr.life:80/00006712/MF159357C/373238
+#EXTINF:-1,CANAL SONY FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923868
+#EXTINF:-1,CANAL SONY HD
+http://axr.life:80/00006712/MF159357C/5046
+#EXTINF:-1,CANAL SONY HD (ALT)
+http://axr.life:80/00006712/MF159357C/922983
+#EXTINF:-1,CANAL SONY SD
+http://axr.life:80/00006712/MF159357C/5407
+#EXTINF:-1,CANAL SONY SD (ALT)
+http://axr.life:80/00006712/MF159357C/923417
+#EXTINF:-1,CANCAO NOVA HD
+http://axr.life:80/00006712/MF159357C/45249
+#EXTINF:-1,CANCAO NOVA SD (ALT)
+http://axr.life:80/00006712/MF159357C/923418
+#EXTINF:-1,CANDY
+http://axr.life:80/00006712/MF159357C/923919
+#EXTINF:-1,CANÇÃO NOVA FHD
+http://axr.life:80/00006712/MF159357C/5384
+#EXTINF:-1,CANÇÃO NOVA HD (ALT)
+http://axr.life:80/00006712/MF159357C/923169
+#EXTINF:-1,CANÇÃO NOVA SD
+http://axr.life:80/00006712/MF159357C/5408
+#EXTINF:-1,CARTOON NETWORK HD
+http://axr.life:80/00006712/MF159357C/5047
+#EXTINF:-1,CARTOON NETWORK HD (ALT)
+http://axr.life:80/00006712/MF159357C/922984
+#EXTINF:-1,CARTOON NETWORK SD
+http://axr.life:80/00006712/MF159357C/5409
+#EXTINF:-1,CARTOON NETWORK SD (ALT)
+http://axr.life:80/00006712/MF159357C/923419
+#EXTINF:-1,CARTOONITO FHD
+http://axr.life:80/00006712/MF159357C/5196
+#EXTINF:-1,CARTOONITO HD
+http://axr.life:80/00006712/MF159357C/17924
+#EXTINF:-1,CARTOONITO HD (ALT)
+http://axr.life:80/00006712/MF159357C/923180
+#EXTINF:-1,CARTOONITO SD
+http://axr.life:80/00006712/MF159357C/5404
+#EXTINF:-1,CARTOONITO SD (ALT)
+http://axr.life:80/00006712/MF159357C/923556
+#EXTINF:-1,CHEFE TV HD
+http://axr.life:80/00006712/MF159357C/923131
+#EXTINF:-1,CINE CANAL
+http://axr.life:80/00006712/MF159357C/923563
+#EXTINF:-1,Cine Comédia
+http://axr.life:80/00006712/MF159357C/393030
+#EXTINF:-1,Cine Drama
+http://axr.life:80/00006712/MF159357C/393031
+#EXTINF:-1,Cine Romance
+http://axr.life:80/00006712/MF159357C/393032
+#EXTINF:-1,CINE SKY 1  FHD
+http://axr.life:80/00006712/MF159357C/923651
+#EXTINF:-1,CINE SKY 2 FHD
+http://axr.life:80/00006712/MF159357C/923652
+#EXTINF:-1,CINE SKY 3  FHD
+http://axr.life:80/00006712/MF159357C/923653
+#EXTINF:-1,CINE SKY 4 FHD
+http://axr.life:80/00006712/MF159357C/923654
+#EXTINF:-1,CINE SKY 5 FHD
+http://axr.life:80/00006712/MF159357C/923655
+#EXTINF:-1,Cine Sucessos
+http://axr.life:80/00006712/MF159357C/393028
+#EXTINF:-1,CINEMAX FHD
+http://axr.life:80/00006712/MF159357C/5200
+#EXTINF:-1,CINEMAX FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923865
+#EXTINF:-1,CINEMAX H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923213
+#EXTINF:-1,CINEMAX HD
+http://axr.life:80/00006712/MF159357C/5048
+#EXTINF:-1,CINEMAX HD (ALT)
+http://axr.life:80/00006712/MF159357C/922985
+#EXTINF:-1,CINEMAX SD
+http://axr.life:80/00006712/MF159357C/5410
+#EXTINF:-1,CINEMAX SD (ALT)
+http://axr.life:80/00006712/MF159357C/923420
+#EXTINF:-1,CNN BRASIL FHD
+http://axr.life:80/00006712/MF159357C/5285
+#EXTINF:-1,CNN BRASIL FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923293
+#EXTINF:-1,CNN BRASIL HD
+http://axr.life:80/00006712/MF159357C/5158
+#EXTINF:-1,CNN BRASIL HD (ALT)
+http://axr.life:80/00006712/MF159357C/923074
+#EXTINF:-1,CNN BRASIL SD
+http://axr.life:80/00006712/MF159357C/5540
+#EXTINF:-1,CNN BRASIL SD (ALT)
+http://axr.life:80/00006712/MF159357C/923545
+#EXTINF:-1,CNN ESPANHOL SD
+http://axr.life:80/00006712/MF159357C/923130
+#EXTINF:-1,CNN FHD 
+http://axr.life:80/00006712/MF159357C/923876
+#EXTINF:-1,CNN INTERNACIONAL SD
+http://axr.life:80/00006712/MF159357C/923129
+#EXTINF:-1,COMBATE FHD
+http://axr.life:80/00006712/MF159357C/5201
+#EXTINF:-1,COMBATE FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923810
+#EXTINF:-1,COMBATE H265
+http://axr.life:80/00006712/MF159357C/923214
+#EXTINF:-1,COMBATE HD
+http://axr.life:80/00006712/MF159357C/5049
+#EXTINF:-1,COMBATE HD (ALT)
+http://axr.life:80/00006712/MF159357C/922986
+#EXTINF:-1,COMBATE SD
+http://axr.life:80/00006712/MF159357C/5411
+#EXTINF:-1,COMBATE SD (ALT)
+http://axr.life:80/00006712/MF159357C/923421
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://axr.life:80/00006712/MF159357C/5202
+#EXTINF:-1,COMEDY CENTRAL FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923882
+#EXTINF:-1,COMEDY CENTRAL H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923215
+#EXTINF:-1,COMEDY CENTRAL HD
+http://axr.life:80/00006712/MF159357C/5050
+#EXTINF:-1,COMEDY CENTRAL HD (ALT)
+http://axr.life:80/00006712/MF159357C/922987
+#EXTINF:-1,COMEDY CENTRAL SD
+http://axr.life:80/00006712/MF159357C/5412
+#EXTINF:-1,COMEDY CENTRAL SD (ALT)
+http://axr.life:80/00006712/MF159357C/923422
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 1)
+http://axr.life:80/00006712/MF159357C/923087
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 2)
+http://axr.life:80/00006712/MF159357C/923088
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 3)
+http://axr.life:80/00006712/MF159357C/923091
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 4 )
+http://axr.life:80/00006712/MF159357C/923118
+#EXTINF:-1,CONMEBOL TV HD (JOGO 1)
+http://axr.life:80/00006712/MF159357C/465348
+#EXTINF:-1,CONMEBOL TV HD (JOGO 1)
+http://axr.life:80/00006712/MF159357C/923089
+#EXTINF:-1,CONMEBOL TV HD (JOGO 2)
+http://axr.life:80/00006712/MF159357C/465350
+#EXTINF:-1,CONMEBOL TV HD (JOGO 2)
+http://axr.life:80/00006712/MF159357C/923090
+#EXTINF:-1,CONMEBOL TV HD (JOGO 3)
+http://axr.life:80/00006712/MF159357C/465352
+#EXTINF:-1,CONMEBOL TV HD (JOGO 3)
+http://axr.life:80/00006712/MF159357C/923092
+#EXTINF:-1,CONMEBOL TV HD (JOGO 4)
+http://axr.life:80/00006712/MF159357C/465354
+#EXTINF:-1,CONMEBOL TV HD (JOGO 4)
+http://axr.life:80/00006712/MF159357C/923117
+#EXTINF:-1,CONMEBOL TV SD (JOGO 1)
+http://axr.life:80/00006712/MF159357C/923549
+#EXTINF:-1,CONMEBOL TV SD (JOGO 2)
+http://axr.life:80/00006712/MF159357C/923552
+#EXTINF:-1,CONMEBOL TV SD (JOGO 3)
+http://axr.life:80/00006712/MF159357C/923554
+#EXTINF:-1,CONMEBOL TV SD (JOGO 4)
+http://axr.life:80/00006712/MF159357C/923550
+#EXTINF:-1,COPA DO BRASIL ( JOGO 1 )
+http://axr.life:80/00006712/MF159357C/465131
+#EXTINF:-1,COPA DO BRASIL ( JOGO 2 )
+http://axr.life:80/00006712/MF159357C/465132
+#EXTINF:-1,COPA DO BRASIL PRIME VIDEO 1
+http://axr.life:80/00006712/MF159357C/923188
+#EXTINF:-1,COPA DO BRASIL PRIME VIDEO 2
+http://axr.life:80/00006712/MF159357C/923189
+#EXTINF:-1,COPA DO NORDESTE 2022 ( JOGO 5 )
+http://axr.life:80/00006712/MF159357C/923081
+#EXTINF:-1,COPA DO NORDESTE 2022 (JOGO 2)
+http://axr.life:80/00006712/MF159357C/923071
+#EXTINF:-1,COPA DO NORDESTE 2022 (JOGO 3)
+http://axr.life:80/00006712/MF159357C/466241
+#EXTINF:-1,COPA DO NORDESTE 2022 (JOGO 3)
+http://axr.life:80/00006712/MF159357C/923072
+#EXTINF:-1,COPA DO NORDESTE 2022 (JOGO 4)
+http://axr.life:80/00006712/MF159357C/466242
+#EXTINF:-1,COPA DO NORDESTE 2022 (JOGO 4)
+http://axr.life:80/00006712/MF159357C/923073
+#EXTINF:-1,COPA DO NORDESTE 2022 (JOGO 6)
+http://axr.life:80/00006712/MF159357C/923082
+#EXTINF:-1,COPA DO NORDESTE 2022 (JOGO 7)
+http://axr.life:80/00006712/MF159357C/923193
+#EXTINF:-1,COPA DO NORDESTE 2022 (JOGO 8)
+http://axr.life:80/00006712/MF159357C/923194
+#EXTINF:-1,COPA DO NORDESTE 2022 (JOGO1 )
+http://axr.life:80/00006712/MF159357C/442419
+#EXTINF:-1,COPA DO NORDESTE 2022 (JOGO1)
+http://axr.life:80/00006712/MF159357C/923067
+#EXTINF:-1,CRONOGRAMA UFC
+http://axr.life:80/00006712/MF159357C/927127
+#EXTINF:-1,CUCKOLD HD
+http://axr.life:80/00006712/MF159357C/368833
+#EXTINF:-1,CURTA! SD
+http://axr.life:80/00006712/MF159357C/5413
+#EXTINF:-1,CURTA! SD (ALT)
+http://axr.life:80/00006712/MF159357C/923423
+#EXTINF:-1,DISCOVERY  WORLD H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923223
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://axr.life:80/00006712/MF159357C/5203
+#EXTINF:-1,DISCOVERY CHANNEL FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923834
+#EXTINF:-1,DISCOVERY CHANNEL H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923216
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://axr.life:80/00006712/MF159357C/5051
+#EXTINF:-1,DISCOVERY CHANNEL HD (ALT)
+http://axr.life:80/00006712/MF159357C/922988
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://axr.life:80/00006712/MF159357C/5414
+#EXTINF:-1,DISCOVERY CHANNEL SD (ALT)
+http://axr.life:80/00006712/MF159357C/923424
+#EXTINF:-1,DISCOVERY H&H FHD
+http://axr.life:80/00006712/MF159357C/5205
+#EXTINF:-1,DISCOVERY H&H FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923833
+#EXTINF:-1,DISCOVERY H&H HD
+http://axr.life:80/00006712/MF159357C/5053
+#EXTINF:-1,DISCOVERY H&H HD (ALT)
+http://axr.life:80/00006712/MF159357C/922990
+#EXTINF:-1,DISCOVERY H&H SD
+http://axr.life:80/00006712/MF159357C/5415
+#EXTINF:-1,DISCOVERY H&H SD (ALT)
+http://axr.life:80/00006712/MF159357C/923425
+#EXTINF:-1,DISCOVERY HOME & HEALTH H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923218
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://axr.life:80/00006712/MF159357C/5206
+#EXTINF:-1,DISCOVERY KIDS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923850
+#EXTINF:-1,DISCOVERY KIDS H265
+http://axr.life:80/00006712/MF159357C/923219
+#EXTINF:-1,DISCOVERY KIDS HD
+http://axr.life:80/00006712/MF159357C/5054
+#EXTINF:-1,DISCOVERY KIDS HD
+http://axr.life:80/00006712/MF159357C/922991
+#EXTINF:-1,DISCOVERY KIDS SD
+http://axr.life:80/00006712/MF159357C/5416
+#EXTINF:-1,DISCOVERY KIDS SD (ALT)
+http://axr.life:80/00006712/MF159357C/923426
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://axr.life:80/00006712/MF159357C/5207
+#EXTINF:-1,DISCOVERY SCIENCE FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923846
+#EXTINF:-1,DISCOVERY SCIENCE H265 
+http://axr.life:80/00006712/MF159357C/923220
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://axr.life:80/00006712/MF159357C/5055
+#EXTINF:-1,DISCOVERY SCIENCE HD (ALT)
+http://axr.life:80/00006712/MF159357C/922992
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://axr.life:80/00006712/MF159357C/5208
+#EXTINF:-1,DISCOVERY THEATER FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923847
+#EXTINF:-1,DISCOVERY THEATER H265:DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923221
+#EXTINF:-1,DISCOVERY THEATER HD
+http://axr.life:80/00006712/MF159357C/5056
+#EXTINF:-1,DISCOVERY THEATER HD (ALT)
+http://axr.life:80/00006712/MF159357C/922993
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://axr.life:80/00006712/MF159357C/5209
+#EXTINF:-1,DISCOVERY TURBO FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923844
+#EXTINF:-1,DISCOVERY TURBO H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923222
+#EXTINF:-1,DISCOVERY TURBO HD
+http://axr.life:80/00006712/MF159357C/5057
+#EXTINF:-1,DISCOVERY TURBO HD (ALT)
+http://axr.life:80/00006712/MF159357C/922994
+#EXTINF:-1,DISCOVERY TURBO SD (ALT)
+http://axr.life:80/00006712/MF159357C/5417
+#EXTINF:-1,DISCOVERY TURBO SD (ALT)
+http://axr.life:80/00006712/MF159357C/923427
+#EXTINF:-1,DISCOVERY WORLD  HD (ALT)
+http://axr.life:80/00006712/MF159357C/922995
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://axr.life:80/00006712/MF159357C/5210
+#EXTINF:-1,DISCOVERY WORLD FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923828
+#EXTINF:-1,DISCOVERY WORLD HD
+http://axr.life:80/00006712/MF159357C/5058
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://axr.life:80/00006712/MF159357C/5211
+#EXTINF:-1,DISNEY CHANNEL FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923851
+#EXTINF:-1,DISNEY CHANNEL H265
+http://axr.life:80/00006712/MF159357C/923224
+#EXTINF:-1,DISNEY CHANNEL HD
+http://axr.life:80/00006712/MF159357C/5059
+#EXTINF:-1,DISNEY CHANNEL HD (ALT)
+http://axr.life:80/00006712/MF159357C/922996
+#EXTINF:-1,DISNEY CHANNEL SD
+http://axr.life:80/00006712/MF159357C/5418
+#EXTINF:-1,DISNEY CHANNEL SD (ALT)
+http://axr.life:80/00006712/MF159357C/923428
+#EXTINF:-1,DISNEY JR FHD
+http://axr.life:80/00006712/MF159357C/923852
+#EXTINF:-1,DOG TV FHD
+http://axr.life:80/00006712/MF159357C/923806
+#EXTINF:-1,DOG TV HD
+http://axr.life:80/00006712/MF159357C/923109
+#EXTINF:-1,DORCEL TV
+http://axr.life:80/00006712/MF159357C/923915
+#EXTINF:-1,E! FHD
+http://axr.life:80/00006712/MF159357C/5213
+#EXTINF:-1,E! FHD
+http://axr.life:80/00006712/MF159357C/923888
+#EXTINF:-1,E! FHD H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923225
+#EXTINF:-1,E! HD
+http://axr.life:80/00006712/MF159357C/45328
+#EXTINF:-1,E! HD (ALT)
+http://axr.life:80/00006712/MF159357C/922997
+#EXTINF:-1,E! SD
+http://axr.life:80/00006712/MF159357C/5421
+#EXTINF:-1,E! SD (ALT)
+http://axr.life:80/00006712/MF159357C/923429
+#EXTINF:-1,EI PLUS SD
+http://axr.life:80/00006712/MF159357C/923551
+#EXTINF:-1,ESPN 2 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923798
+#EXTINF:-1,ESPN 2 H265
+http://axr.life:80/00006712/MF159357C/923227
+#EXTINF:-1,ESPN 2 HD
+http://axr.life:80/00006712/MF159357C/5062
+#EXTINF:-1,ESPN 2 HD (ALT)
+http://axr.life:80/00006712/MF159357C/922998
+#EXTINF:-1,ESPN 2 SD
+http://axr.life:80/00006712/MF159357C/5426
+#EXTINF:-1,ESPN 2 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923434
+#EXTINF:-1,ESPN 3  H265
+http://axr.life:80/00006712/MF159357C/923228
+#EXTINF:-1,ESPN 3 FHD 
+http://axr.life:80/00006712/MF159357C/465905
+#EXTINF:-1,ESPN 3 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923795
+#EXTINF:-1,ESPN 3 HD
+http://axr.life:80/00006712/MF159357C/465906
+#EXTINF:-1,ESPN 3 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923185
+#EXTINF:-1,ESPN 3 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923557
+#EXTINF:-1,ESPN 4 (ALT)
+http://axr.life:80/00006712/MF159357C/923435
+#EXTINF:-1,ESPN 4 4K
+http://axr.life:80/00006712/MF159357C/923300
+#EXTINF:-1,ESPN 4 FHD
+http://axr.life:80/00006712/MF159357C/465908
+#EXTINF:-1,ESPN 4 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923800
+#EXTINF:-1,ESPN 4 H265
+http://axr.life:80/00006712/MF159357C/923233
+#EXTINF:-1,ESPN 4 HD
+http://axr.life:80/00006712/MF159357C/465909
+#EXTINF:-1,ESPN 4 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923006
+#EXTINF:-1,ESPN EXTRA FHD
+http://axr.life:80/00006712/MF159357C/5214
+#EXTINF:-1,ESPN EXTRA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923796
+#EXTINF:-1,ESPN EXTRA H265
+http://axr.life:80/00006712/MF159357C/923226
+#EXTINF:-1,ESPN EXTRA HD
+http://axr.life:80/00006712/MF159357C/5065
+#EXTINF:-1,ESPN EXTRA HD (ALT)
+http://axr.life:80/00006712/MF159357C/923001
+#EXTINF:-1,ESPN FHD
+http://axr.life:80/00006712/MF159357C/5215
+#EXTINF:-1,ESPN FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923797
+#EXTINF:-1,ESPN H265
+http://axr.life:80/00006712/MF159357C/923229
+#EXTINF:-1,ESPN HD
+http://axr.life:80/00006712/MF159357C/5064
+#EXTINF:-1,ESPN HD (ALT)
+http://axr.life:80/00006712/MF159357C/922999
+#EXTINF:-1,ESPN HD (ALT)
+http://axr.life:80/00006712/MF159357C/923000
+#EXTINF:-1,ESPN SD
+http://axr.life:80/00006712/MF159357C/5425
+#EXTINF:-1,ESPN SD (ALT)
+http://axr.life:80/00006712/MF159357C/923433
+#EXTINF:-1,ESTADIO TNT SPORTS  ( JOGO 4 )
+http://axr.life:80/00006712/MF159357C/457935
+#EXTINF:-1,ESTADIO TNT SPORTS (JOGO 1)
+http://axr.life:80/00006712/MF159357C/923310
+#EXTINF:-1,ESTADIO TNT SPORTS (JOGO 2)
+http://axr.life:80/00006712/MF159357C/923311
+#EXTINF:-1,ESTADIO TNT SPORTS (JOGO 3)
+http://axr.life:80/00006712/MF159357C/923312
+#EXTINF:-1,ESTADIO TNT SPORTS (JOGO 4)
+http://axr.life:80/00006712/MF159357C/923313
+#EXTINF:-1,ESTADIO TNT SPORTS HD
+http://axr.life:80/00006712/MF159357C/923314
+#EXTINF:-1,ESTÁDIO TNT SPORTS  ( JOGO 2 )
+http://axr.life:80/00006712/MF159357C/442150
+#EXTINF:-1,ESTÁDIO TNT SPORTS  ( JOGO 3 )
+http://axr.life:80/00006712/MF159357C/442151
+#EXTINF:-1,ESTÁDIO TNT SPORTS ( JOGO 1 )
+http://axr.life:80/00006712/MF159357C/442149
+#EXTINF:-1,FASHION TV FHD
+http://axr.life:80/00006712/MF159357C/923898
+#EXTINF:-1,FASHION TV HD
+http://axr.life:80/00006712/MF159357C/923100
+#EXTINF:-1,FETISH HD
+http://axr.life:80/00006712/MF159357C/368834
+#EXTINF:-1,FILM & ART FHD
+http://axr.life:80/00006712/MF159357C/923879
+#EXTINF:-1,FILM & ART HD
+http://axr.life:80/00006712/MF159357C/923097
+#EXTINF:-1,FILM & ARTS SD
+http://axr.life:80/00006712/MF159357C/923436
+#EXTINF:-1,Filmes Ação
+http://axr.life:80/00006712/MF159357C/393029
+#EXTINF:-1,Filmes Suspense
+http://axr.life:80/00006712/MF159357C/393036
+#EXTINF:-1,FISH TV FHD
+http://axr.life:80/00006712/MF159357C/373196
+#EXTINF:-1,FISH TV H265
+http://axr.life:80/00006712/MF159357C/923230
+#EXTINF:-1,FISH TV HD
+http://axr.life:80/00006712/MF159357C/17925
+#EXTINF:-1,FISH TV SD
+http://axr.life:80/00006712/MF159357C/5429
+#EXTINF:-1,FISH TV SD (ALT)
+http://axr.life:80/00006712/MF159357C/923437
+#EXTINF:-1,FLA TV SD
+http://axr.life:80/00006712/MF159357C/457834
+#EXTINF:-1,FLA TV SD (ALT)
+http://axr.life:80/00006712/MF159357C/923113
+#EXTINF:-1,FLUXUSLUST HD
+http://axr.life:80/00006712/MF159357C/368835
+#EXTINF:-1,FOOD NETWORK  H265
+http://axr.life:80/00006712/MF159357C/923231
+#EXTINF:-1,FOOD NETWORK FHD
+http://axr.life:80/00006712/MF159357C/5219
+#EXTINF:-1,FOOD NETWORK FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923887
+#EXTINF:-1,FOOD NETWORK HD
+http://axr.life:80/00006712/MF159357C/5066
+#EXTINF:-1,FOOD NETWORK HD (ALT)
+http://axr.life:80/00006712/MF159357C/923002
+#EXTINF:-1,FOOD NETWORK SD
+http://axr.life:80/00006712/MF159357C/5430
+#EXTINF:-1,FOOD NETWORK SD (ALT)
+http://axr.life:80/00006712/MF159357C/923438
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://axr.life:80/00006712/MF159357C/5224
+#EXTINF:-1,FOX SPORTS 2 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923799
+#EXTINF:-1,FOX SPORTS 2 H265
+http://axr.life:80/00006712/MF159357C/923234
+#EXTINF:-1,FOX SPORTS 2 HD
+http://axr.life:80/00006712/MF159357C/5071
+#EXTINF:-1,FOX SPORTS 2 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923005
+#EXTINF:-1,FOX SPORTS 2 SD
+http://axr.life:80/00006712/MF159357C/68533
+#EXTINF:-1,FOX SPORTS 2 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923442
+#EXTINF:-1,FOX SPORTS SD (ALT)
+http://axr.life:80/00006712/MF159357C/923441
+#EXTINF:-1,FURACAO TV HD
+http://axr.life:80/00006712/MF159357C/923170
+#EXTINF:-1,FURAÇÃO LIVE HD
+http://axr.life:80/00006712/MF159357C/775948
+#EXTINF:-1,Futura FHD
+http://axr.life:80/00006712/MF159357C/477014
+#EXTINF:-1,Futura HD
+http://axr.life:80/00006712/MF159357C/477013
+#EXTINF:-1,FUTURA SD
+http://axr.life:80/00006712/MF159357C/373197
+#EXTINF:-1,FUTURA SD (ALT)
+http://axr.life:80/00006712/MF159357C/923443
+#EXTINF:-1,FX FHD
+http://axr.life:80/00006712/MF159357C/5225
+#EXTINF:-1,FX FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923866
+#EXTINF:-1,FX H265 
+http://axr.life:80/00006712/MF159357C/923235
+#EXTINF:-1,FX HD
+http://axr.life:80/00006712/MF159357C/5073
+#EXTINF:-1,FX HD (ALT)
+http://axr.life:80/00006712/MF159357C/923007
+#EXTINF:-1,FX SD
+http://axr.life:80/00006712/MF159357C/5436
+#EXTINF:-1,FX SD (ALT)
+http://axr.life:80/00006712/MF159357C/923444
+#EXTINF:-1,GAZETA ES SUL HD
+http://axr.life:80/00006712/MF159357C/923190
+#EXTINF:-1,GAZETA HD SP
+http://axr.life:80/00006712/MF159357C/923315
+#EXTINF:-1,GLBO JUIZ DE FORA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/376154
+#EXTINF:-1,GLOBO  BRASILIA HD
+http://axr.life:80/00006712/MF159357C/923316
+#EXTINF:-1,GLOBO  NSC TV JOINVILLE FHD (ALT)
+http://axr.life:80/00006712/MF159357C/71720
+#EXTINF:-1,GLOBO (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923403
+#EXTINF:-1,GLOBO ALAGOAS FHD
+http://axr.life:80/00006712/MF159357C/923742
+#EXTINF:-1,GLOBO ALAGOAS HD
+http://axr.life:80/00006712/MF159357C/923743
+#EXTINF:-1,GLOBO AMAZONICA RIO BRANCO HD (ALT)
+http://axr.life:80/00006712/MF159357C/373941
+#EXTINF:-1,GLOBO AMAZONICA RIO BRANCO HD (ALT)
+http://axr.life:80/00006712/MF159357C/466237
+#EXTINF:-1,GLOBO ANHANGUERA SD
+http://axr.life:80/00006712/MF159357C/923520
+#EXTINF:-1,GLOBO ASA BRANCA  HD (ALT)
+http://axr.life:80/00006712/MF159357C/71741
+#EXTINF:-1,GLOBO ASA BRANCA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/117045
+#EXTINF:-1,GLOBO BAHIA  FHD
+http://axr.life:80/00006712/MF159357C/923360
+#EXTINF:-1,GLOBO BAHIA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/68520
+#EXTINF:-1,GLOBO BAHIA HD
+http://axr.life:80/00006712/MF159357C/923781
+#EXTINF:-1,GLOBO BAHIA HD (ALT)
+http://axr.life:80/00006712/MF159357C/68521
+#EXTINF:-1,GLOBO BAHIA SD (ALT)
+http://axr.life:80/00006712/MF159357C/465158
+#EXTINF:-1,GLOBO BELEM  FHD (ALT)
+http://axr.life:80/00006712/MF159357C/466234
+#EXTINF:-1,GLOBO BLUMENAL HD (ALT)
+http://axr.life:80/00006712/MF159357C/767644
+#EXTINF:-1,GLOBO BLUMENAL SD (ALT)
+http://axr.life:80/00006712/MF159357C/767643
+#EXTINF:-1,GLOBO BLUMENAU FHD (ALT)
+http://axr.life:80/00006712/MF159357C/380572
+#EXTINF:-1,GLOBO BRASILIA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/30621
+#EXTINF:-1,GLOBO BRASILIA H265
+http://axr.life:80/00006712/MF159357C/923716
+#EXTINF:-1,GLOBO BRASILIA SD
+http://axr.life:80/00006712/MF159357C/923445
+#EXTINF:-1,GLOBO BRASILIA SD (ALT)
+http://axr.life:80/00006712/MF159357C/5353
+#EXTINF:-1,GLOBO CABO BRANCO FHD (ALT)
+http://axr.life:80/00006712/MF159357C/362651
+#EXTINF:-1,GLOBO CABO FRIU HD
+http://axr.life:80/00006712/MF159357C/923344
+#EXTINF:-1,GLOBO CAXIAS DO SUL SD
+http://axr.life:80/00006712/MF159357C/767639
+#EXTINF:-1,GLOBO CENTRO AMERICA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/380556
+#EXTINF:-1,GLOBO CHAPECO FHD (ALT)
+http://axr.life:80/00006712/MF159357C/767646
+#EXTINF:-1,GLOBO CHAPECO HD  (ALT)
+http://axr.life:80/00006712/MF159357C/767647
+#EXTINF:-1,GLOBO CHAPECO HD (ALT)
+http://axr.life:80/00006712/MF159357C/380570
+#EXTINF:-1,GLOBO CHAPECO SD (ALT)
+http://axr.life:80/00006712/MF159357C/767645
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
+http://axr.life:80/00006712/MF159357C/923347
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/362701
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://axr.life:80/00006712/MF159357C/923346
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://axr.life:80/00006712/MF159357C/923431
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD (ALT)
+http://axr.life:80/00006712/MF159357C/5423
+#EXTINF:-1,GLOBO EPTV CENTRAL SD  (ALT)
+http://axr.life:80/00006712/MF159357C/767654
+#EXTINF:-1,GLOBO EPTV COMPINAS HD (ALT)
+http://axr.life:80/00006712/MF159357C/362702
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO  H265
+http://axr.life:80/00006712/MF159357C/923351
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FHD (ALT)
+http://axr.life:80/00006712/MF159357C/374282
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
+http://axr.life:80/00006712/MF159357C/923725
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD
+http://axr.life:80/00006712/MF159357C/923432
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO HD (ALT)
+http://axr.life:80/00006712/MF159357C/71698
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD
+http://axr.life:80/00006712/MF159357C/923352
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/376148
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://axr.life:80/00006712/MF159357C/923724
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD (ALT)
+http://axr.life:80/00006712/MF159357C/376147
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS SD (ALT)
+http://axr.life:80/00006712/MF159357C/376146
+#EXTINF:-1,GLOBO EPTV SÃO CARLOS SD
+http://axr.life:80/00006712/MF159357C/923430
+#EXTINF:-1,GLOBO ES FHD  (ALT)
+http://axr.life:80/00006712/MF159357C/776527
+#EXTINF:-1,GLOBO ES HD  (ALT)
+http://axr.life:80/00006712/MF159357C/776526
+#EXTINF:-1,GLOBO ES SD  (ALT)
+http://axr.life:80/00006712/MF159357C/776525
+#EXTINF:-1,GLOBO FOZ IGUAÇU FHD (ALT)
+http://axr.life:80/00006712/MF159357C/362659
+#EXTINF:-1,GLOBO GAZETA ALAGOAS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/380743
+#EXTINF:-1,GLOBO GAZETA ALAGOAS HD (ALT)
+http://axr.life:80/00006712/MF159357C/465157
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG FHD
+http://axr.life:80/00006712/MF159357C/923375
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG HD
+http://axr.life:80/00006712/MF159357C/923374
+#EXTINF:-1,GLOBO INTER CABUGI FHD (ALT)
+http://axr.life:80/00006712/MF159357C/362679
+#EXTINF:-1,GLOBO INTER DO VALE FHD
+http://axr.life:80/00006712/MF159357C/923371
+#EXTINF:-1,GLOBO INTER DOS VALES HD (ALT)
+http://axr.life:80/00006712/MF159357C/376151
+#EXTINF:-1,GLOBO INTER GABUGI HD (ALT)
+http://axr.life:80/00006712/MF159357C/362680
+#EXTINF:-1,GLOBO INTER TV CABIGI SD
+http://axr.life:80/00006712/MF159357C/923460
+#EXTINF:-1,GLOBO INTER TV RJ FHD 
+http://axr.life:80/00006712/MF159357C/923369
+#EXTINF:-1,GLOBO INTER TV RJ HD 
+http://axr.life:80/00006712/MF159357C/923368
+#EXTINF:-1,GLOBO INTER VALE MG HD
+http://axr.life:80/00006712/MF159357C/923370
+#EXTINF:-1,GLOBO JOAÇABA FHD
+http://axr.life:80/00006712/MF159357C/923748
+#EXTINF:-1,GLOBO JOAÇABA HD
+http://axr.life:80/00006712/MF159357C/923749
+#EXTINF:-1,GLOBO JRP  FHD (ALT)
+http://axr.life:80/00006712/MF159357C/380706
+#EXTINF:-1,GLOBO JUIZ DE FORA HD (ALT)
+http://axr.life:80/00006712/MF159357C/466233
+#EXTINF:-1,GLOBO JUIZ DE FORA HD (ALT)
+http://axr.life:80/00006712/MF159357C/376153
+#EXTINF:-1,GLOBO JUIZ DE FORA MG FHD
+http://axr.life:80/00006712/MF159357C/923746
+#EXTINF:-1,GLOBO JUIZ DE FORA MG HD
+http://axr.life:80/00006712/MF159357C/923747
+#EXTINF:-1,GLOBO MANAUS HD
+http://axr.life:80/00006712/MF159357C/923720
+#EXTINF:-1,GLOBO MARINGA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/776602
+#EXTINF:-1,GLOBO MARINGA HD (ALT)
+http://axr.life:80/00006712/MF159357C/776601
+#EXTINF:-1,GLOBO MARINGA SD  (ALT)
+http://axr.life:80/00006712/MF159357C/776600
+#EXTINF:-1,GLOBO MG VALE FHD (ALT)
+http://axr.life:80/00006712/MF159357C/376149
+#EXTINF:-1,GLOBO MINAS FHD
+http://axr.life:80/00006712/MF159357C/923195
+#EXTINF:-1,GLOBO MINAS HD
+http://axr.life:80/00006712/MF159357C/923721
+#EXTINF:-1,GLOBO MINAS SD
+http://axr.life:80/00006712/MF159357C/923446
+#EXTINF:-1,GLOBO MOGI DAS CRUZES FHD
+http://axr.life:80/00006712/MF159357C/923750
+#EXTINF:-1,GLOBO MOGI DAS CRUZES HD
+http://axr.life:80/00006712/MF159357C/923751
+#EXTINF:-1,GLOBO MONTES CLAROS MG FHD
+http://axr.life:80/00006712/MF159357C/923740
+#EXTINF:-1,GLOBO MONTES CLAROS MG HD
+http://axr.life:80/00006712/MF159357C/923741
+#EXTINF:-1,GLOBO NEWS FHD
+http://axr.life:80/00006712/MF159357C/45264
+#EXTINF:-1,GLOBO NEWS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923877
+#EXTINF:-1,GLOBO NEWS H265
+http://axr.life:80/00006712/MF159357C/923236
+#EXTINF:-1,GLOBO NEWS HD
+http://axr.life:80/00006712/MF159357C/5074
+#EXTINF:-1,GLOBO NEWS HD (ALT)
+http://axr.life:80/00006712/MF159357C/923008
+#EXTINF:-1,GLOBO NEWS SD
+http://axr.life:80/00006712/MF159357C/5439
+#EXTINF:-1,GLOBO NEWS SD (ALT)
+http://axr.life:80/00006712/MF159357C/923447
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://axr.life:80/00006712/MF159357C/923372
+#EXTINF:-1,GLOBO NORDESTE FHD (ALT)
+http://axr.life:80/00006712/MF159357C/373370
+#EXTINF:-1,GLOBO NORDESTE HD
+http://axr.life:80/00006712/MF159357C/923373
+#EXTINF:-1,GLOBO NORDESTE HD (ALT)
+http://axr.life:80/00006712/MF159357C/373369
+#EXTINF:-1,GLOBO NORDESTE SD
+http://axr.life:80/00006712/MF159357C/923448
+#EXTINF:-1,GLOBO NORDESTE SD (ALT)
+http://axr.life:80/00006712/MF159357C/373368
+#EXTINF:-1,GLOBO NSC BLUMENAU FHD
+http://axr.life:80/00006712/MF159357C/923396
+#EXTINF:-1,GLOBO NSC BLUMENAU HD
+http://axr.life:80/00006712/MF159357C/923397
+#EXTINF:-1,GLOBO NSC TV CHAPECO FHD 
+http://axr.life:80/00006712/MF159357C/923769
+#EXTINF:-1,GLOBO NSC TV CHAPECO HD 
+http://axr.life:80/00006712/MF159357C/923770
+#EXTINF:-1,GLOBO NSC TV JOINVILLE HD (ALT)
+http://axr.life:80/00006712/MF159357C/68540
+#EXTINF:-1,GLOBO NSCTV JOI FHD
+http://axr.life:80/00006712/MF159357C/923727
+#EXTINF:-1,GLOBO NSCTV JOI HD
+http://axr.life:80/00006712/MF159357C/923728
+#EXTINF:-1,GLOBO PARAIBA HD
+http://axr.life:80/00006712/MF159357C/923715
+#EXTINF:-1,GLOBO PARANAVAI FHD
+http://axr.life:80/00006712/MF159357C/475508
+#EXTINF:-1,GLOBO PELOTAS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/466235
+#EXTINF:-1,GLOBO PELOTAS SD
+http://axr.life:80/00006712/MF159357C/767640
+#EXTINF:-1,GLOBO PORTO ALEGRE FHD
+http://axr.life:80/00006712/MF159357C/767642
+#EXTINF:-1,GLOBO PORTO ALEGRE HD (ALT)
+http://axr.life:80/00006712/MF159357C/767641
+#EXTINF:-1,GLOBO PRESIDENTE PRUDENTE SP FHD
+http://axr.life:80/00006712/MF159357C/923744
+#EXTINF:-1,GLOBO PRESIDENTE PRUDENTE SP HD
+http://axr.life:80/00006712/MF159357C/923745
+#EXTINF:-1,GLOBO RBS CAXIAS FHD
+http://axr.life:80/00006712/MF159357C/923356
+#EXTINF:-1,GLOBO RBS CAXIAS HD
+http://axr.life:80/00006712/MF159357C/923355
+#EXTINF:-1,GLOBO RBS FHD
+http://axr.life:80/00006712/MF159357C/923739
+#EXTINF:-1,GLOBO RBS HD
+http://axr.life:80/00006712/MF159357C/923319
+#EXTINF:-1,GLOBO RBS PASSO FUNDO FHD
+http://axr.life:80/00006712/MF159357C/923389
+#EXTINF:-1,GLOBO RBS PASSO FUNDO HD 
+http://axr.life:80/00006712/MF159357C/923388
+#EXTINF:-1,GLOBO RBS PELOTAS (ALT)
+http://axr.life:80/00006712/MF159357C/380569
+#EXTINF:-1,GLOBO RBS PELOTAS FHD
+http://axr.life:80/00006712/MF159357C/923357
+#EXTINF:-1,GLOBO RBS PELOTAS HD
+http://axr.life:80/00006712/MF159357C/923358
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL FHD (ALT)
+http://axr.life:80/00006712/MF159357C/71724
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD (ALT)
+http://axr.life:80/00006712/MF159357C/71723
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE HD (ALT)
+http://axr.life:80/00006712/MF159357C/5310
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE SD
+http://axr.life:80/00006712/MF159357C/923489
+#EXTINF:-1,GLOBO REDE AMAZONICA BOA VISTA FHD
+http://axr.life:80/00006712/MF159357C/923391
+#EXTINF:-1,GLOBO REDE AMAZONICA BOA VISTA HD
+http://axr.life:80/00006712/MF159357C/923390
+#EXTINF:-1,GLOBO REDE AMAZONICA FHD
+http://axr.life:80/00006712/MF159357C/923752
+#EXTINF:-1,GLOBO REDE AMAZONICA HD
+http://axr.life:80/00006712/MF159357C/923753
+#EXTINF:-1,GLOBO REDE AMAZONICA PORTO VELHO HD
+http://axr.life:80/00006712/MF159357C/923392
+#EXTINF:-1,GLOBO REME AMAZONICA SD
+http://axr.life:80/00006712/MF159357C/923492
+#EXTINF:-1,GLOBO RIO SUL HD
+http://axr.life:80/00006712/MF159357C/923719
+#EXTINF:-1,GLOBO RJ  FHD
+http://axr.life:80/00006712/MF159357C/923345
+#EXTINF:-1,GLOBO RJ FHD (ALT)
+http://axr.life:80/00006712/MF159357C/5352
+#EXTINF:-1,Globo RJ HD
+http://axr.life:80/00006712/MF159357C/923317
+#EXTINF:-1,GLOBO RJ HD (ALT)
+http://axr.life:80/00006712/MF159357C/5307
+#EXTINF:-1,GLOBO RJ SD
+http://axr.life:80/00006712/MF159357C/923449
+#EXTINF:-1,GLOBO RJ SD (ALT)
+http://axr.life:80/00006712/MF159357C/5441
+#EXTINF:-1,GLOBO RPC CASCAVEL FHD
+http://axr.life:80/00006712/MF159357C/923381
+#EXTINF:-1,GLOBO RPC CASCAVEL HD
+http://axr.life:80/00006712/MF159357C/923380
+#EXTINF:-1,GLOBO RPC CURITIBA FHD
+http://axr.life:80/00006712/MF159357C/923385
+#EXTINF:-1,GLOBO RPC CURITIBA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/49430
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://axr.life:80/00006712/MF159357C/923384
+#EXTINF:-1,GLOBO RPC CURITIBA SD
+http://axr.life:80/00006712/MF159357C/923496
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU FHD
+http://axr.life:80/00006712/MF159357C/923359
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU HD
+http://axr.life:80/00006712/MF159357C/923726
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU HD (ALT)
+http://axr.life:80/00006712/MF159357C/71736
+#EXTINF:-1,GLOBO RPC PARANA HD
+http://axr.life:80/00006712/MF159357C/923340
+#EXTINF:-1,GLOBO RPC PARANAVAI FHD
+http://axr.life:80/00006712/MF159357C/923731
+#EXTINF:-1,GLOBO RPC TV CURITIBA HD (ALT)
+http://axr.life:80/00006712/MF159357C/49429
+#EXTINF:-1,GLOBO SANTA CATARINA HD
+http://axr.life:80/00006712/MF159357C/923338
+#EXTINF:-1,GLOBO SC HD  (ALT)
+http://axr.life:80/00006712/MF159357C/767648
+#EXTINF:-1,Globo SC NSC TV FLORIANOPOLIS FHD  (ALT)
+http://axr.life:80/00006712/MF159357C/767649
+#EXTINF:-1,GLOBO SERGIPE HD
+http://axr.life:80/00006712/MF159357C/923318
+#EXTINF:-1,GLOBO SERGIPE HD (ALT)
+http://axr.life:80/00006712/MF159357C/362664
+#EXTINF:-1,GLOBO SOROCABA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/380741
+#EXTINF:-1,GLOBO SP  FHD (ALT)
+http://axr.life:80/00006712/MF159357C/5365
+#EXTINF:-1,GLOBO SP  HD (ALT)
+http://axr.life:80/00006712/MF159357C/5309
+#EXTINF:-1,GLOBO SP FHD
+http://axr.life:80/00006712/MF159357C/923712
+#EXTINF:-1,GLOBO SP H265
+http://axr.life:80/00006712/MF159357C/923711
+#EXTINF:-1,GLOBO SP H265
+http://axr.life:80/00006712/MF159357C/923717
+#EXTINF:-1,GLOBO SP HD
+http://axr.life:80/00006712/MF159357C/923737
+#EXTINF:-1,GLOBO SP REDE AMAZONICA PORTO VELHO FHD
+http://axr.life:80/00006712/MF159357C/923393
+#EXTINF:-1,GLOBO SP SD
+http://axr.life:80/00006712/MF159357C/923450
+#EXTINF:-1,GLOBO SP SD (ALT)
+http://axr.life:80/00006712/MF159357C/5442
+#EXTINF:-1,GLOBO SP TV VANGUARDA HD (ALT)
+http://axr.life:80/00006712/MF159357C/380742
+#EXTINF:-1,GLOBO SÃO JOSE DO RIO PRETO SD
+http://axr.life:80/00006712/MF159357C/923531
+#EXTINF:-1,GLOBO SÃO LUIS HD (ALT)
+http://axr.life:80/00006712/MF159357C/364887
+#EXTINF:-1,GLOBO TRIBUNA SANTOS SD
+http://axr.life:80/00006712/MF159357C/923533
+#EXTINF:-1,GLOBO TV  SAO FRANCISCO FHD
+http://axr.life:80/00006712/MF159357C/923379
+#EXTINF:-1,GLOBO TV  SAO FRANCISCO HD
+http://axr.life:80/00006712/MF159357C/923378
+#EXTINF:-1,GLOBO TV ANHAGUERA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/376141
+#EXTINF:-1,GLOBO TV ANHAGUERA H265
+http://axr.life:80/00006712/MF159357C/923285
+#EXTINF:-1,GLOBO TV ANHAGUERA HD (ALT)
+http://axr.life:80/00006712/MF159357C/376142
+#EXTINF:-1,GLOBO TV ANHANGUERA ANAPOLIS FHD
+http://axr.life:80/00006712/MF159357C/923759
+#EXTINF:-1,GLOBO TV ANHANGUERA ANAPOLIS HD
+http://axr.life:80/00006712/MF159357C/923758
+#EXTINF:-1,GLOBO TV ANHANGUERA CATALAO FHD
+http://axr.life:80/00006712/MF159357C/923761
+#EXTINF:-1,GLOBO TV ANHANGUERA CATALAO HD
+http://axr.life:80/00006712/MF159357C/923760
+#EXTINF:-1,GLOBO TV ANHANGUERA ITUMBIARA FHD
+http://axr.life:80/00006712/MF159357C/923763
+#EXTINF:-1,GLOBO TV ANHANGUERA ITUMBIARA HD
+http://axr.life:80/00006712/MF159357C/923762
+#EXTINF:-1,GLOBO TV ASA BRANCA HD
+http://axr.life:80/00006712/MF159357C/923714
+#EXTINF:-1,GLOBO TV BAHIA SD
+http://axr.life:80/00006712/MF159357C/923522
+#EXTINF:-1,GLOBO TV CABO BRANCO JOAO PESSOA  FHD
+http://axr.life:80/00006712/MF159357C/923767
+#EXTINF:-1,GLOBO TV CABO BRANCO JOAO PESSOA HD
+http://axr.life:80/00006712/MF159357C/923768
+#EXTINF:-1,GLOBO TV CABUGI FHD
+http://axr.life:80/00006712/MF159357C/923757
+#EXTINF:-1,GLOBO TV CABUGI HD
+http://axr.life:80/00006712/MF159357C/923756
+#EXTINF:-1,GLOBO TV CAXIAS DO SUL FHD (ALT)
+http://axr.life:80/00006712/MF159357C/364881
+#EXTINF:-1,GLOBO TV CENTRO AMERICA SD
+http://axr.life:80/00006712/MF159357C/923524
+#EXTINF:-1,GLOBO TV CLUB HD (ALT)
+http://axr.life:80/00006712/MF159357C/71765
+#EXTINF:-1,GLOBO TV CLUBE PIAUI FHD
+http://axr.life:80/00006712/MF159357C/923766
+#EXTINF:-1,GLOBO TV DIARIO HD
+http://axr.life:80/00006712/MF159357C/923080
+#EXTINF:-1,GLOBO TV DIARIO HD (ALT)
+http://axr.life:80/00006712/MF159357C/465450
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD 
+http://axr.life:80/00006712/MF159357C/923764
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
+http://axr.life:80/00006712/MF159357C/923765
+#EXTINF:-1,GLOBO TV GAZETA SUL HD (ALT)
+http://axr.life:80/00006712/MF159357C/376136
+#EXTINF:-1,GLOBO TV GAZETA VITORIA ES HD
+http://axr.life:80/00006712/MF159357C/923772
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXÁ FHD 
+http://axr.life:80/00006712/MF159357C/923776
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXÁ HD 
+http://axr.life:80/00006712/MF159357C/923777
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO DIVINÓPOLIS FHD
+http://axr.life:80/00006712/MF159357C/923755
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO DIVINÓPOLIS HD
+http://axr.life:80/00006712/MF159357C/923754
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO UBERABA FHD 
+http://axr.life:80/00006712/MF159357C/923297
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO UBERABA HD
+http://axr.life:80/00006712/MF159357C/923775
+#EXTINF:-1,GLOBO TV LIBERAL HD
+http://axr.life:80/00006712/MF159357C/923348
+#EXTINF:-1,GLOBO TV LIBERAL SD
+http://axr.life:80/00006712/MF159357C/923527
+#EXTINF:-1,GLOBO TV MIRANTE FHD
+http://axr.life:80/00006712/MF159357C/923782
+#EXTINF:-1,GLOBO TV MIRANTE FHD (ALT)
+http://axr.life:80/00006712/MF159357C/71747
+#EXTINF:-1,GLOBO TV MIRANTE HD 
+http://axr.life:80/00006712/MF159357C/923718
+#EXTINF:-1,GLOBO TV MIRANTE HD (ALT)
+http://axr.life:80/00006712/MF159357C/5392
+#EXTINF:-1,GLOBO TV MORENA FHD
+http://axr.life:80/00006712/MF159357C/923729
+#EXTINF:-1,GLOBO TV MORENA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/466236
+#EXTINF:-1,GLOBO TV MORENA HD
+http://axr.life:80/00006712/MF159357C/923730
+#EXTINF:-1,GLOBO TV MORENA HD (ALT)
+http://axr.life:80/00006712/MF159357C/376156
+#EXTINF:-1,GLOBO TV RIO SUL FHD 
+http://axr.life:80/00006712/MF159357C/923783
+#EXTINF:-1,GLOBO TV RIO SUL HD (ALT)
+http://axr.life:80/00006712/MF159357C/364878
+#EXTINF:-1,GLOBO TV SANTA CRUZ BAHIA
+http://axr.life:80/00006712/MF159357C/923335
+#EXTINF:-1,GLOBO TV SUBAE 
+http://axr.life:80/00006712/MF159357C/923336
+#EXTINF:-1,GLOBO TV SUBAE HD
+http://axr.life:80/00006712/MF159357C/452079
+#EXTINF:-1,GLOBO TV TEM BAURU FHD
+http://axr.life:80/00006712/MF159357C/923733
+#EXTINF:-1,GLOBO TV TEM BAURU HD (ALT)
+http://axr.life:80/00006712/MF159357C/374208
+#EXTINF:-1,GLOBO TV TEM BAURU SD
+http://axr.life:80/00006712/MF159357C/923530
+#EXTINF:-1,GLOBO TV TEM ITAPE FHD
+http://axr.life:80/00006712/MF159357C/923735
+#EXTINF:-1,GLOBO TV TEM ITAPE HD
+http://axr.life:80/00006712/MF159357C/923736
+#EXTINF:-1,GLOBO TV TEM SOROCABA FHD
+http://axr.life:80/00006712/MF159357C/923773
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD
+http://axr.life:80/00006712/MF159357C/923774
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+http://axr.life:80/00006712/MF159357C/923532
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD (ALT)
+http://axr.life:80/00006712/MF159357C/362690
+#EXTINF:-1,GLOBO TV TRIBUNA FHD
+http://axr.life:80/00006712/MF159357C/923778
+#EXTINF:-1,GLOBO TV TRIBUNA HD
+http://axr.life:80/00006712/MF159357C/923363
+#EXTINF:-1,GLOBO TV TRIBUNA HD (ALT)
+http://axr.life:80/00006712/MF159357C/374110
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/71759
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD (ALT)
+http://axr.life:80/00006712/MF159357C/71766
+#EXTINF:-1,GLOBO TV TV SOROCABA HD (ALT)
+http://axr.life:80/00006712/MF159357C/5525
+#EXTINF:-1,GLOBO TV VANGUARDA  SJC FHD (ALT) 
+http://axr.life:80/00006712/MF159357C/117071
+#EXTINF:-1,GLOBO TV VANGUARDA  SJC HD (ALT)
+http://axr.life:80/00006712/MF159357C/117048
+#EXTINF:-1,GLOBO TV VANGUARDA FHD 
+http://axr.life:80/00006712/MF159357C/923780
+#EXTINF:-1,GLOBO TV VANGUARDA HD 
+http://axr.life:80/00006712/MF159357C/923779
+#EXTINF:-1,GLOBO TV VERDE MARES HD (ALT)
+http://axr.life:80/00006712/MF159357C/376133
+#EXTINF:-1,GLOBO TV VERDES MARES HD 
+http://axr.life:80/00006712/MF159357C/923349
+#EXTINF:-1,GLOBO VANGUARDA SD
+http://axr.life:80/00006712/MF159357C/923534
+#EXTINF:-1,GLOBO VERDE MARES SD
+http://axr.life:80/00006712/MF159357C/923535
+#EXTINF:-1,GLOBO VERDE MARES SD (ALT)
+http://axr.life:80/00006712/MF159357C/376131
+#EXTINF:-1,GLOBOSAT FHD
+http://axr.life:80/00006712/MF159357C/923906
+#EXTINF:-1,GLOOB FHD
+http://axr.life:80/00006712/MF159357C/5227
+#EXTINF:-1,GLOOB FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923853
+#EXTINF:-1,GLOOB H265
+http://axr.life:80/00006712/MF159357C/923237
+#EXTINF:-1,GLOOB HD
+http://axr.life:80/00006712/MF159357C/5076
+#EXTINF:-1,GLOOB HD (ALT)
+http://axr.life:80/00006712/MF159357C/923010
+#EXTINF:-1,GLOOB SD
+http://axr.life:80/00006712/MF159357C/5443
+#EXTINF:-1,GLOOB SD (ALT)
+http://axr.life:80/00006712/MF159357C/923451
+#EXTINF:-1,GLOOBINHO FHD
+http://axr.life:80/00006712/MF159357C/374296
+#EXTINF:-1,GLOOBINHO HD
+http://axr.life:80/00006712/MF159357C/374297
+#EXTINF:-1,GNT FHD
+http://axr.life:80/00006712/MF159357C/5228
+#EXTINF:-1,GNT FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923886
+#EXTINF:-1,GNT FHD DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923238
+#EXTINF:-1,GNT HD
+http://axr.life:80/00006712/MF159357C/5077
+#EXTINF:-1,GNT HD (ALT)
+http://axr.life:80/00006712/MF159357C/923011
+#EXTINF:-1,GNT SD
+http://axr.life:80/00006712/MF159357C/5444
+#EXTINF:-1,GNT SD (ALT)
+http://axr.life:80/00006712/MF159357C/923452
+#EXTINF:-1,GOLF CHANNEL FHD
+http://axr.life:80/00006712/MF159357C/923808
+#EXTINF:-1,GOLF CHANNEL HD
+http://axr.life:80/00006712/MF159357C/923809
+#EXTINF:-1,GOSPEL CARTOON SD
+http://axr.life:80/00006712/MF159357C/923124
+#EXTINF:-1,GOSPEL MOVIE TV HD
+http://axr.life:80/00006712/MF159357C/923123
+#EXTINF:-1,Guia de Canais
+http://axr.life:80/00006712/MF159357C/393027
+#EXTINF:-1,HARDCORE HD
+http://axr.life:80/00006712/MF159357C/368836
+#EXTINF:-1,HBO 2 FHD
+http://axr.life:80/00006712/MF159357C/17912
+#EXTINF:-1,HBO 2 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923819
+#EXTINF:-1,HBO 2 H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923243
+#EXTINF:-1,HBO 2 HD
+http://axr.life:80/00006712/MF159357C/5078
+#EXTINF:-1,HBO 2 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923012
+#EXTINF:-1,HBO 2 SD
+http://axr.life:80/00006712/MF159357C/5449
+#EXTINF:-1,HBO 2 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923457
+#EXTINF:-1,HBO FAMILLY H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923239
+#EXTINF:-1,HBO FAMILY FHD
+http://axr.life:80/00006712/MF159357C/5229
+#EXTINF:-1,HBO FAMILY FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923821
+#EXTINF:-1,HBO FAMILY HD
+http://axr.life:80/00006712/MF159357C/5079
+#EXTINF:-1,HBO FAMILY HD (ALT)
+http://axr.life:80/00006712/MF159357C/923013
+#EXTINF:-1,HBO FAMILY SD
+http://axr.life:80/00006712/MF159357C/5446
+#EXTINF:-1,HBO FAMILY SD (ALT)
+http://axr.life:80/00006712/MF159357C/923454
+#EXTINF:-1,HBO FHD
+http://axr.life:80/00006712/MF159357C/355045
+#EXTINF:-1,HBO FHD
+http://axr.life:80/00006712/MF159357C/5230
+#EXTINF:-1,HBO FHD ( LEGENDADO )
+http://axr.life:80/00006712/MF159357C/923693
+#EXTINF:-1,HBO FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923818
+#EXTINF:-1,HBO H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923240
+#EXTINF:-1,HBO HD
+http://axr.life:80/00006712/MF159357C/355046
+#EXTINF:-1,HBO HD (ALT)
+http://axr.life:80/00006712/MF159357C/923014
+#EXTINF:-1,HBO HD (LENGENDADO)
+http://axr.life:80/00006712/MF159357C/923694
+#EXTINF:-1,HBO MAX 1 HD
+http://axr.life:80/00006712/MF159357C/355727
+#EXTINF:-1,HBO MAX 1 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923173
+#EXTINF:-1,HBO MAX 2 HD
+http://axr.life:80/00006712/MF159357C/355728
+#EXTINF:-1,HBO MAX 2 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923174
+#EXTINF:-1,HBO MAX 3 HD
+http://axr.life:80/00006712/MF159357C/355729
+#EXTINF:-1,HBO MAX 3 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923175
+#EXTINF:-1,HBO MAX 4 HD
+http://axr.life:80/00006712/MF159357C/355730
+#EXTINF:-1,HBO MAX 4 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923176
+#EXTINF:-1,HBO MUNDI FHD
+http://axr.life:80/00006712/MF159357C/5239
+#EXTINF:-1,HBO MUNDI FHD ( LEGENDADO )
+http://axr.life:80/00006712/MF159357C/923699
+#EXTINF:-1,HBO MUNDI FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923823
+#EXTINF:-1,HBO MUNDI H265 
+http://axr.life:80/00006712/MF159357C/923249
+#EXTINF:-1,HBO MUNDI HD
+http://axr.life:80/00006712/MF159357C/5087
+#EXTINF:-1,HBO MUNDI HD ( CANAIS LEGENDADOS )
+http://axr.life:80/00006712/MF159357C/923700
+#EXTINF:-1,HBO MUNDI HD (ALT)
+http://axr.life:80/00006712/MF159357C/923021
+#EXTINF:-1,HBO MUNDI SD
+http://axr.life:80/00006712/MF159357C/923558
+#EXTINF:-1,HBO PLUS FHD 
+http://axr.life:80/00006712/MF159357C/923820
+#EXTINF:-1,HBO PLUS FHD ( LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923695
+#EXTINF:-1,HBO PLUS H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923241
+#EXTINF:-1,HBO PLUS HD
+http://axr.life:80/00006712/MF159357C/923015
+#EXTINF:-1,HBO PLUS HD ( LEGENDADO )
+http://axr.life:80/00006712/MF159357C/923696
+#EXTINF:-1,HBO PLUS SD
+http://axr.life:80/00006712/MF159357C/923455
+#EXTINF:-1,HBO POP FHD
+http://axr.life:80/00006712/MF159357C/5241
+#EXTINF:-1,HBO POP FHD ( LEGENDADO )
+http://axr.life:80/00006712/MF159357C/923701
+#EXTINF:-1,HBO POP FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923825
+#EXTINF:-1,HBO POP H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923251
+#EXTINF:-1,HBO POP HD
+http://axr.life:80/00006712/MF159357C/5089
+#EXTINF:-1,HBO POP HD ( LEGENDADO )
+http://axr.life:80/00006712/MF159357C/923702
+#EXTINF:-1,HBO POP HD (ALT)
+http://axr.life:80/00006712/MF159357C/923023
+#EXTINF:-1,HBO POP SD
+http://axr.life:80/00006712/MF159357C/923559
+#EXTINF:-1,HBO SD
+http://axr.life:80/00006712/MF159357C/5447
+#EXTINF:-1,HBO SD
+http://axr.life:80/00006712/MF159357C/5445
+#EXTINF:-1,HBO SD (ALT)
+http://axr.life:80/00006712/MF159357C/923453
+#EXTINF:-1,HBO SIGNATURE FHD
+http://axr.life:80/00006712/MF159357C/5082
+#EXTINF:-1,HBO SIGNATURE FHD ( LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923697
+#EXTINF:-1,HBO SIGNATURE FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923822
+#EXTINF:-1,HBO SIGNATURE H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923242
+#EXTINF:-1,HBO SIGNATURE HD
+http://axr.life:80/00006712/MF159357C/45334
+#EXTINF:-1,HBO SIGNATURE HD ( LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923698
+#EXTINF:-1,HBO SIGNATURE HD (ALT)
+http://axr.life:80/00006712/MF159357C/923016
+#EXTINF:-1,HBO SIGNATURE SD
+http://axr.life:80/00006712/MF159357C/5448
+#EXTINF:-1,HBO SIGNATURE SD (ALT)
+http://axr.life:80/00006712/MF159357C/923456
+#EXTINF:-1,HBO XTREAM FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923824
+#EXTINF:-1,HBO XTREAM HD ( LEGENDADO )
+http://axr.life:80/00006712/MF159357C/923704
+#EXTINF:-1,HBO XTREAM HD (ALT)
+http://axr.life:80/00006712/MF159357C/923022
+#EXTINF:-1,HBO XTREME FHD
+http://axr.life:80/00006712/MF159357C/5240
+#EXTINF:-1,HBO XTREME FHD (  LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923703
+#EXTINF:-1,HBO XTREME H265 
+http://axr.life:80/00006712/MF159357C/923250
+#EXTINF:-1,HBO XTREME HD
+http://axr.life:80/00006712/MF159357C/5088
+#EXTINF:-1,HGTV FHD 
+http://axr.life:80/00006712/MF159357C/5204
+#EXTINF:-1,HGTV FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923885
+#EXTINF:-1,HGTV H265 
+http://axr.life:80/00006712/MF159357C/923217
+#EXTINF:-1,HGTV HD
+http://axr.life:80/00006712/MF159357C/5052
+#EXTINF:-1,HGTV HD (ALT)
+http://axr.life:80/00006712/MF159357C/922989
+#EXTINF:-1,HISTORY 2 FHD
+http://axr.life:80/00006712/MF159357C/5235
+#EXTINF:-1,HISTORY 2 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923832
+#EXTINF:-1,HISTORY 2 H265
+http://axr.life:80/00006712/MF159357C/923245
+#EXTINF:-1,HISTORY 2 HD
+http://axr.life:80/00006712/MF159357C/5083
+#EXTINF:-1,HISTORY 2 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923017
+#EXTINF:-1,HISTORY 2 SD (ALT)
+http://axr.life:80/00006712/MF159357C/5450
+#EXTINF:-1,HISTORY 2 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923458
+#EXTINF:-1,HISTORY CHANNEL HD
+http://axr.life:80/00006712/MF159357C/5084
+#EXTINF:-1,HISTORY CHANNEL SD
+http://axr.life:80/00006712/MF159357C/5534
+#EXTINF:-1,HISTORY FHD
+http://axr.life:80/00006712/MF159357C/5234
+#EXTINF:-1,HISTORY FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923807
+#EXTINF:-1,HISTORY H265 
+http://axr.life:80/00006712/MF159357C/923244
+#EXTINF:-1,HISTORY HD (ALT)
+http://axr.life:80/00006712/MF159357C/923018
+#EXTINF:-1,HISTORY SD (ALT)
+http://axr.life:80/00006712/MF159357C/923541
+#EXTINF:-1,I-SAT SD
+http://axr.life:80/00006712/MF159357C/923560
+#EXTINF:-1,ID - INVESTIGATION DISCOVERY FHD
+http://axr.life:80/00006712/MF159357C/5236
+#EXTINF:-1,ID - INVESTIGATION DISCOVERY HD
+http://axr.life:80/00006712/MF159357C/5085
+#EXTINF:-1,ID - INVESTIGATION DISCOVERY SD
+http://axr.life:80/00006712/MF159357C/5451
+#EXTINF:-1,INTERRACIAL HD
+http://axr.life:80/00006712/MF159357C/368837
+#EXTINF:-1,INVESTIGATION DISCOVERY (ALT)
+http://axr.life:80/00006712/MF159357C/923459
+#EXTINF:-1,INVESTIGATION DISCOVERY FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923845
+#EXTINF:-1,INVESTIGATION DISCOVERY H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923246
+#EXTINF:-1,INVESTIGATION DSICOVERY HD (ALT)
+http://axr.life:80/00006712/MF159357C/923019
+#EXTINF:-1,JIU JITSU SD
+http://axr.life:80/00006712/MF159357C/923201
+#EXTINF:-1,JOVEM PAN NEWS FHD
+http://axr.life:80/00006712/MF159357C/465361
+#EXTINF:-1,JOVEM PAN NEWS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923910
+#EXTINF:-1,JOVEM PAN NEWS HD
+http://axr.life:80/00006712/MF159357C/465362
+#EXTINF:-1,JOVEM PAN NEWS HD (ALT)
+http://axr.life:80/00006712/MF159357C/923179
+#EXTINF:-1,JOVEM PAN NEWS SD
+http://axr.life:80/00006712/MF159357C/465363
+#EXTINF:-1,LANÇAMENTOS PARA O MES DE  JULHO
+http://axr.life:80/00006712/MF159357C/928629
+#EXTINF:-1,LATINA HF
+http://axr.life:80/00006712/MF159357C/368838
+#EXTINF:-1,LIFETIME FHD
+http://axr.life:80/00006712/MF159357C/5237
+#EXTINF:-1,LIFETIME FHD
+http://axr.life:80/00006712/MF159357C/923827
+#EXTINF:-1,LIFETIME H265
+http://axr.life:80/00006712/MF159357C/923247
+#EXTINF:-1,LIFETIME HD
+http://axr.life:80/00006712/MF159357C/5086
+#EXTINF:-1,LIFETIME HD (ALT)
+http://axr.life:80/00006712/MF159357C/923020
+#EXTINF:-1,LIFETIME SD
+http://axr.life:80/00006712/MF159357C/5453
+#EXTINF:-1,LIFETIME SD (ALT)
+http://axr.life:80/00006712/MF159357C/923461
+#EXTINF:-1,LIGA FUTSAL 2022
+http://axr.life:80/00006712/MF159357C/923085
+#EXTINF:-1,LOVE NATURE FHD
+http://axr.life:80/00006712/MF159357C/923292
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://axr.life:80/00006712/MF159357C/923009
+#EXTINF:-1,MAIS GLOBOSAT SD
+http://axr.life:80/00006712/MF159357C/923462
+#EXTINF:-1,MAX PRIME SD
+http://axr.life:80/00006712/MF159357C/923464
+#EXTINF:-1,MAX SD
+http://axr.life:80/00006712/MF159357C/923463
+#EXTINF:-1,MEGAPIX FHD
+http://axr.life:80/00006712/MF159357C/5242
+#EXTINF:-1,MEGAPIX FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923867
+#EXTINF:-1,MEGAPIX H265 
+http://axr.life:80/00006712/MF159357C/923252
+#EXTINF:-1,MEGAPIX HD
+http://axr.life:80/00006712/MF159357C/5090
+#EXTINF:-1,MEGAPIX HD (ALT)
+http://axr.life:80/00006712/MF159357C/923024
+#EXTINF:-1,MEGAPIX SD
+http://axr.life:80/00006712/MF159357C/5458
+#EXTINF:-1,MEGAPIX SD (ALT)
+http://axr.life:80/00006712/MF159357C/923465
+#EXTINF:-1,MILF HD
+http://axr.life:80/00006712/MF159357C/368839
+#EXTINF:-1,Modo Viagem FHD
+http://axr.life:80/00006712/MF159357C/475671
+#EXTINF:-1,Modo Viagem HD
+http://axr.life:80/00006712/MF159357C/766444
+#EXTINF:-1,Modo Viagem SD
+http://axr.life:80/00006712/MF159357C/766445
+#EXTINF:-1,MTV FHD
+http://axr.life:80/00006712/MF159357C/5243
+#EXTINF:-1,MTV FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923878
+#EXTINF:-1,MTV H265 DUAAUDIO
+http://axr.life:80/00006712/MF159357C/923253
+#EXTINF:-1,MTV HD
+http://axr.life:80/00006712/MF159357C/5091
+#EXTINF:-1,MTV HD (ALT)
+http://axr.life:80/00006712/MF159357C/923025
+#EXTINF:-1,MTV LIVE HD
+http://axr.life:80/00006712/MF159357C/923167
+#EXTINF:-1,MTV SD
+http://axr.life:80/00006712/MF159357C/5459
+#EXTINF:-1,MTV SD (ALT)
+http://axr.life:80/00006712/MF159357C/923466
+#EXTINF:-1,MULTISHOW FHD
+http://axr.life:80/00006712/MF159357C/5244
+#EXTINF:-1,MULTISHOW FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923884
+#EXTINF:-1,MULTISHOW H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923254
+#EXTINF:-1,MULTISHOW HD
+http://axr.life:80/00006712/MF159357C/5092
+#EXTINF:-1,MULTISHOW HD (ALT)
+http://axr.life:80/00006712/MF159357C/923026
+#EXTINF:-1,MULTISHOW SD
+http://axr.life:80/00006712/MF159357C/5460
+#EXTINF:-1,MULTISHOW SD (ALT)
+http://axr.life:80/00006712/MF159357C/923467
+#EXTINF:-1,MUNDIAL IDEAL
+http://axr.life:80/00006712/MF159357C/923544
+#EXTINF:-1,MUNDIAL IDEAL FHD
+http://axr.life:80/00006712/MF159357C/923903
+#EXTINF:-1,MUNDIAL IDEAL HD (ALT)
+http://axr.life:80/00006712/MF159357C/923105
+#EXTINF:-1,MUSIC BOX BRAZIL HD
+http://axr.life:80/00006712/MF159357C/5462
+#EXTINF:-1,MUSIC BOX BRAZIL HD (ALT)
+http://axr.life:80/00006712/MF159357C/923469
+#EXTINF:-1,MUSIC BOX BRAZIL SD
+http://axr.life:80/00006712/MF159357C/45325
+#EXTINF:-1,MUSIC BOX BRAZIL SD (ALT)
+http://axr.life:80/00006712/MF159357C/923468
+#EXTINF:-1,Naruto 24h
+http://axr.life:80/00006712/MF159357C/393035
+#EXTINF:-1,NATGEO H265
+http://axr.life:80/00006712/MF159357C/923255
+#EXTINF:-1,NATGEO KIDS FHD
+http://axr.life:80/00006712/MF159357C/923855
+#EXTINF:-1,NATGEO KIDS HD
+http://axr.life:80/00006712/MF159357C/923028
+#EXTINF:-1,NATGEO KIDS SD
+http://axr.life:80/00006712/MF159357C/923470
+#EXTINF:-1,NATGEO WILD FHD
+http://axr.life:80/00006712/MF159357C/923829
+#EXTINF:-1,NATGEO WILD HD
+http://axr.life:80/00006712/MF159357C/923029
+#EXTINF:-1,NATGEO WILD SD
+http://axr.life:80/00006712/MF159357C/923471
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://axr.life:80/00006712/MF159357C/104677
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923831
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://axr.life:80/00006712/MF159357C/104678
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (ALT)
+http://axr.life:80/00006712/MF159357C/923027
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+http://axr.life:80/00006712/MF159357C/104679
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD (ALT)
+http://axr.life:80/00006712/MF159357C/923472
+#EXTINF:-1,NBA League Pass 1 HD
+http://axr.life:80/00006712/MF159357C/766210
+#EXTINF:-1,NBA League Pass 2 HD
+http://axr.life:80/00006712/MF159357C/766211
+#EXTINF:-1,NBA League Pass 3 HD
+http://axr.life:80/00006712/MF159357C/766212
+#EXTINF:-1,NBA League Pass 4 HD
+http://axr.life:80/00006712/MF159357C/766213
+#EXTINF:-1,NBA League Pass 5 HD
+http://axr.life:80/00006712/MF159357C/766214
+#EXTINF:-1,NBA TV
+http://axr.life:80/00006712/MF159357C/766209
+#EXTINF:-1,NHK FHD (JAPONES)
+http://axr.life:80/00006712/MF159357C/923383
+#EXTINF:-1,NHK HD (JAPONES)
+http://axr.life:80/00006712/MF159357C/923382
+#EXTINF:-1,NHK SD
+http://axr.life:80/00006712/MF159357C/923473
+#EXTINF:-1,NICK JR FHD
+http://axr.life:80/00006712/MF159357C/5249
+#EXTINF:-1,NICK JR FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923857
+#EXTINF:-1,NICK JR HD
+http://axr.life:80/00006712/MF159357C/45295
+#EXTINF:-1,NICK JR HD (ALT)
+http://axr.life:80/00006712/MF159357C/923031
+#EXTINF:-1,NICK JR SD
+http://axr.life:80/00006712/MF159357C/5466
+#EXTINF:-1,NICK JR SD (ALT)
+http://axr.life:80/00006712/MF159357C/923474
+#EXTINF:-1,NICK JUNIOR H265
+http://axr.life:80/00006712/MF159357C/923257
+#EXTINF:-1,NICKELOAD H265
+http://axr.life:80/00006712/MF159357C/923256
+#EXTINF:-1,NICKELODEON FHD
+http://axr.life:80/00006712/MF159357C/5248
+#EXTINF:-1,NICKELODEON FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923856
+#EXTINF:-1,NICKELODEON HD
+http://axr.life:80/00006712/MF159357C/5096
+#EXTINF:-1,NICKELODEON HD (ALT)
+http://axr.life:80/00006712/MF159357C/923030
+#EXTINF:-1,NICKELODEON SD
+http://axr.life:80/00006712/MF159357C/5467
+#EXTINF:-1,NICKELODEON SD (ALT)
+http://axr.life:80/00006712/MF159357C/923475
+#EXTINF:-1,NOVO TEMPO FHD
+http://axr.life:80/00006712/MF159357C/374361
+#EXTINF:-1,NOVO TEMPO HD
+http://axr.life:80/00006712/MF159357C/45255
+#EXTINF:-1,NOVO TEMPO HD (ALT)
+http://axr.life:80/00006712/MF159357C/923078
+#EXTINF:-1,NOVO TEMPO SD
+http://axr.life:80/00006712/MF159357C/923543
+#EXTINF:-1,NSCTV FLORIANOPOLIS HD
+http://axr.life:80/00006712/MF159357C/923722
+#EXTINF:-1,OFF FHD
+http://axr.life:80/00006712/MF159357C/5250
+#EXTINF:-1,OFF FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923883
+#EXTINF:-1,OFF H265
+http://axr.life:80/00006712/MF159357C/923258
+#EXTINF:-1,OFF HD
+http://axr.life:80/00006712/MF159357C/5098
+#EXTINF:-1,OFF HD (ALT)
+http://axr.life:80/00006712/MF159357C/923032
+#EXTINF:-1,OFF SD
+http://axr.life:80/00006712/MF159357C/5468
+#EXTINF:-1,OFF SD
+http://axr.life:80/00006712/MF159357C/923476
+#EXTINF:-1,PARAMOUNT FHD
+http://axr.life:80/00006712/MF159357C/5251
+#EXTINF:-1,PARAMOUNT FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923869
+#EXTINF:-1,PARAMOUNT H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923259
+#EXTINF:-1,PARAMOUNT HD
+http://axr.life:80/00006712/MF159357C/5099
+#EXTINF:-1,PARAMOUNT HD (ALT)
+http://axr.life:80/00006712/MF159357C/923033
+#EXTINF:-1,PARAMOUNT SD
+http://axr.life:80/00006712/MF159357C/5469
+#EXTINF:-1,PARAMOUNT SD (ALT)
+http://axr.life:80/00006712/MF159357C/923477
+#EXTINF:-1,PASSION
+http://axr.life:80/00006712/MF159357C/923946
+#EXTINF:-1,PAULISTÃO PLAY 2022 JOGO 1
+http://axr.life:80/00006712/MF159357C/923183
+#EXTINF:-1,PENTHOUSE QUICKIES
+http://axr.life:80/00006712/MF159357C/923948
+#EXTINF:-1,PINK-O
+http://axr.life:80/00006712/MF159357C/923917
+#EXTINF:-1,Pluto TV Anime
+http://axr.life:80/00006712/MF159357C/393033
+#EXTINF:-1,PREMIER CLUBE 4K
+http://axr.life:80/00006712/MF159357C/923710
+#EXTINF:-1,PREMIER CLUBES FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923801
+#EXTINF:-1,PREMIERE 2 FHD
+http://axr.life:80/00006712/MF159357C/128493
+#EXTINF:-1,PREMIERE 2 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923841
+#EXTINF:-1,PREMIERE 2 H265
+http://axr.life:80/00006712/MF159357C/923261
+#EXTINF:-1,PREMIERE 2 HD
+http://axr.life:80/00006712/MF159357C/128489
+#EXTINF:-1,PREMIERE 2 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923034
+#EXTINF:-1,PREMIERE 2 SD
+http://axr.life:80/00006712/MF159357C/5473
+#EXTINF:-1,PREMIERE 2 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923481
+#EXTINF:-1,PREMIERE 3 FHD
+http://axr.life:80/00006712/MF159357C/5254
+#EXTINF:-1,PREMIERE 3 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923840
+#EXTINF:-1,PREMIERE 3 H265
+http://axr.life:80/00006712/MF159357C/923262
+#EXTINF:-1,PREMIERE 3 HD
+http://axr.life:80/00006712/MF159357C/5101
+#EXTINF:-1,PREMIERE 3 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923035
+#EXTINF:-1,PREMIERE 3 SD
+http://axr.life:80/00006712/MF159357C/56159
+#EXTINF:-1,PREMIERE 3 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923482
+#EXTINF:-1,PREMIERE 4 FHD
+http://axr.life:80/00006712/MF159357C/5255
+#EXTINF:-1,PREMIERE 4 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923839
+#EXTINF:-1,PREMIERE 4 H265
+http://axr.life:80/00006712/MF159357C/923263
+#EXTINF:-1,PREMIERE 4 HD
+http://axr.life:80/00006712/MF159357C/5102
+#EXTINF:-1,PREMIERE 4 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923036
+#EXTINF:-1,PREMIERE 4 SD
+http://axr.life:80/00006712/MF159357C/5475
+#EXTINF:-1,PREMIERE 4 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923483
+#EXTINF:-1,PREMIERE 5 FHD
+http://axr.life:80/00006712/MF159357C/5256
+#EXTINF:-1,PREMIERE 5 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923838
+#EXTINF:-1,PREMIERE 5 H265
+http://axr.life:80/00006712/MF159357C/923264
+#EXTINF:-1,PREMIERE 5 HD
+http://axr.life:80/00006712/MF159357C/45345
+#EXTINF:-1,PREMIERE 5 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923037
+#EXTINF:-1,PREMIERE 5 SD
+http://axr.life:80/00006712/MF159357C/5476
+#EXTINF:-1,PREMIERE 5 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923484
+#EXTINF:-1,PREMIERE 6 FHD
+http://axr.life:80/00006712/MF159357C/5257
+#EXTINF:-1,PREMIERE 6 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923837
+#EXTINF:-1,PREMIERE 6 H265
+http://axr.life:80/00006712/MF159357C/923265
+#EXTINF:-1,PREMIERE 6 HD
+http://axr.life:80/00006712/MF159357C/5104
+#EXTINF:-1,PREMIERE 6 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923038
+#EXTINF:-1,PREMIERE 6 SD
+http://axr.life:80/00006712/MF159357C/5477
+#EXTINF:-1,PREMIERE 6 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923485
+#EXTINF:-1,PREMIERE 7 FHD
+http://axr.life:80/00006712/MF159357C/5258
+#EXTINF:-1,PREMIERE 7 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923836
+#EXTINF:-1,PREMIERE 7 H265
+http://axr.life:80/00006712/MF159357C/923266
+#EXTINF:-1,PREMIERE 7 HD
+http://axr.life:80/00006712/MF159357C/5105
+#EXTINF:-1,PREMIERE 7 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923039
+#EXTINF:-1,PREMIERE 7 SD
+http://axr.life:80/00006712/MF159357C/5478
+#EXTINF:-1,PREMIERE 7 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923486
+#EXTINF:-1,PREMIERE 8 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923487
+#EXTINF:-1,PREMIERE CLUBES  H265
+http://axr.life:80/00006712/MF159357C/923260
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://axr.life:80/00006712/MF159357C/372983
+#EXTINF:-1,PREMIERE CLUBES HD
+http://axr.life:80/00006712/MF159357C/372984
+#EXTINF:-1,PREMIERE CLUBES HD (ALT)
+http://axr.life:80/00006712/MF159357C/923040
+#EXTINF:-1,PREMIERE CLUBES SD
+http://axr.life:80/00006712/MF159357C/5481
+#EXTINF:-1,PREMIERE CLUBES SD (ALT)
+http://axr.life:80/00006712/MF159357C/923488
+#EXTINF:-1,PRIVATE HD
+http://axr.life:80/00006712/MF159357C/923931
+#EXTINF:-1,RAI INTERNACIONAL FHD
+http://axr.life:80/00006712/MF159357C/923805
+#EXTINF:-1,RAI INTERNACIONAL HD
+http://axr.life:80/00006712/MF159357C/923709
+#EXTINF:-1,RBSTV STA MARIA SD
+http://axr.life:80/00006712/MF159357C/923826
+#EXTINF:-1,Record BA - ITAPOAN HD  (ALT)
+http://axr.life:80/00006712/MF159357C/70990
+#EXTINF:-1,Record BA HD  (ALT)
+http://axr.life:80/00006712/MF159357C/389104
+#EXTINF:-1,RECORD BELEM HD
+http://axr.life:80/00006712/MF159357C/923325
+#EXTINF:-1,RECORD BH MINAS HD
+http://axr.life:80/00006712/MF159357C/923084
+#EXTINF:-1,RECORD BRASILIA HD
+http://axr.life:80/00006712/MF159357C/923320
+#EXTINF:-1,RECORD CABRALIA HD
+http://axr.life:80/00006712/MF159357C/923333
+#EXTINF:-1,RECORD CAMPINAS HD  (ALT)
+http://axr.life:80/00006712/MF159357C/373936
+#EXTINF:-1,Record DF - HD  (ALT)
+http://axr.life:80/00006712/MF159357C/766215
+#EXTINF:-1,Record ES - HD (ALT)
+http://axr.life:80/00006712/MF159357C/766216
+#EXTINF:-1,RECORD ES HD
+http://axr.life:80/00006712/MF159357C/923191
+#EXTINF:-1,RECORD GO HD  (ALT)
+http://axr.life:80/00006712/MF159357C/70996
+#EXTINF:-1,RECORD ITAPOAN BAHIA SD
+http://axr.life:80/00006712/MF159357C/923555
+#EXTINF:-1,RECORD ITAPOAN HD 
+http://axr.life:80/00006712/MF159357C/923121
+#EXTINF:-1,RECORD MANAUS HD
+http://axr.life:80/00006712/MF159357C/923354
+#EXTINF:-1,RECORD MARANHAO SD
+http://axr.life:80/00006712/MF159357C/923197
+#EXTINF:-1,RECORD MG HD  (ALT)
+http://axr.life:80/00006712/MF159357C/5179
+#EXTINF:-1,RECORD MINAS FHD
+http://axr.life:80/00006712/MF159357C/923296
+#EXTINF:-1,RECORD NEWS FHD
+http://axr.life:80/00006712/MF159357C/115704
+#EXTINF:-1,RECORD NEWS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923891
+#EXTINF:-1,RECORD NEWS HD
+http://axr.life:80/00006712/MF159357C/5484
+#EXTINF:-1,RECORD NEWS HD (ALT)
+http://axr.life:80/00006712/MF159357C/923076
+#EXTINF:-1,RECORD NEWS SD
+http://axr.life:80/00006712/MF159357C/17922
+#EXTINF:-1,RECORD NEWS SD (ALT)
+http://axr.life:80/00006712/MF159357C/923490
+#EXTINF:-1,Record PA - Belém HD  (ALT)
+http://axr.life:80/00006712/MF159357C/68542
+#EXTINF:-1,RECORD PARANAIBA HD
+http://axr.life:80/00006712/MF159357C/923334
+#EXTINF:-1,Record PR Maringá HD  (ALT)
+http://axr.life:80/00006712/MF159357C/5319
+#EXTINF:-1,RECORD RJ FHD
+http://axr.life:80/00006712/MF159357C/923402
+#EXTINF:-1,RECORD RJ HD
+http://axr.life:80/00006712/MF159357C/923328
+#EXTINF:-1,RECORD RJ HD  (ALT)
+http://axr.life:80/00006712/MF159357C/5320
+#EXTINF:-1,RECORD RS FHD
+http://axr.life:80/00006712/MF159357C/923398
+#EXTINF:-1,Record RS HD
+http://axr.life:80/00006712/MF159357C/923321
+#EXTINF:-1,Record RS HD  (ALT)
+http://axr.life:80/00006712/MF159357C/35165
+#EXTINF:-1,RECORD SERGIPE HD
+http://axr.life:80/00006712/MF159357C/923323
+#EXTINF:-1,Record SP - Interior FHD  (ALT)
+http://axr.life:80/00006712/MF159357C/57255
+#EXTINF:-1,RECORD SP H265
+http://axr.life:80/00006712/MF159357C/923723
+#EXTINF:-1,RECORD SP HD
+http://axr.life:80/00006712/MF159357C/923324
+#EXTINF:-1,RECORD SP HD  (ALT)
+http://axr.life:80/00006712/MF159357C/5316
+#EXTINF:-1,RECORD SÃO JOSE DO RIO PRETO HD
+http://axr.life:80/00006712/MF159357C/923322
+#EXTINF:-1,RECORD THATHI CAMPINAS FHD
+http://axr.life:80/00006712/MF159357C/923366
+#EXTINF:-1,RECORD THATHI CAMPINAS HD
+http://axr.life:80/00006712/MF159357C/923337
+#EXTINF:-1,RECORD TV GOIANIA H265
+http://axr.life:80/00006712/MF159357C/923267
+#EXTINF:-1,RECORD TV GOIANIA HD
+http://axr.life:80/00006712/MF159357C/923041
+#EXTINF:-1,RECORD TV LITORAL HD 
+http://axr.life:80/00006712/MF159357C/923326
+#EXTINF:-1,RECORD TV MINAS HD
+http://axr.life:80/00006712/MF159357C/923327
+#EXTINF:-1,RECORD TV PARANÁ FHD
+http://axr.life:80/00006712/MF159357C/923377
+#EXTINF:-1,RECORD TV PARANÁ HD
+http://axr.life:80/00006712/MF159357C/923343
+#EXTINF:-1,RECORD TV SANTA CATARINA HD
+http://axr.life:80/00006712/MF159357C/923339
+#EXTINF:-1,RECORD TV SD
+http://axr.life:80/00006712/MF159357C/923491
+#EXTINF:-1,REDE 21 HD
+http://axr.life:80/00006712/MF159357C/923127
+#EXTINF:-1,REDE BRASIL HD
+http://axr.life:80/00006712/MF159357C/374283
+#EXTINF:-1,REDE BRASIL SD
+http://axr.life:80/00006712/MF159357C/923493
+#EXTINF:-1,REDE GOSPEL SD
+http://axr.life:80/00006712/MF159357C/923122
+#EXTINF:-1,REDE MINAS HD
+http://axr.life:80/00006712/MF159357C/923079
+#EXTINF:-1,REDE PLENITUDE TV HD
+http://axr.life:80/00006712/MF159357C/923126
+#EXTINF:-1,REDE SUPER HD
+http://axr.life:80/00006712/MF159357C/923553
+#EXTINF:-1,REDE SUPER SD
+http://axr.life:80/00006712/MF159357C/374356
+#EXTINF:-1,REDE TV FHD
+http://axr.life:80/00006712/MF159357C/923893
+#EXTINF:-1,REDE TV FHD (ALT)
+http://axr.life:80/00006712/MF159357C/354855
+#EXTINF:-1,REDE TV H265
+http://axr.life:80/00006712/MF159357C/923268
+#EXTINF:-1,Rede TV HD
+http://axr.life:80/00006712/MF159357C/923042
+#EXTINF:-1,REDE TV SD
+http://axr.life:80/00006712/MF159357C/923494
+#EXTINF:-1,REDE TV! HD (ALT)
+http://axr.life:80/00006712/MF159357C/5108
+#EXTINF:-1,REDE TV! SD (ALT)
+http://axr.life:80/00006712/MF159357C/5487
+#EXTINF:-1,REDE TV! TV PAMPA RS FHD
+http://axr.life:80/00006712/MF159357C/923399
+#EXTINF:-1,REDE TV! TV PAMPA RS HD
+http://axr.life:80/00006712/MF159357C/923362
+#EXTINF:-1,REDE VIDA HD
+http://axr.life:80/00006712/MF159357C/5488
+#EXTINF:-1,REDE VIDA SD
+http://axr.life:80/00006712/MF159357C/923495
+#EXTINF:-1,REDLIGHT HD
+http://axr.life:80/00006712/MF159357C/923930
+#EXTINF:-1,RIT TV HD
+http://axr.life:80/00006712/MF159357C/923132
+#EXTINF:-1,RPC PARANAVAI HD
+http://axr.life:80/00006712/MF159357C/923732
+#EXTINF:-1,RPC TV CURITIBA SD (ALT)
+http://axr.life:80/00006712/MF159357C/5489
+#EXTINF:-1,RUSNOCH
+http://axr.life:80/00006712/MF159357C/923929
+#EXTINF:-1,RUSSIAN
+http://axr.life:80/00006712/MF159357C/368842
+#EXTINF:-1,SBT ARATU HD
+http://axr.life:80/00006712/MF159357C/923332
+#EXTINF:-1,SBT BSB HD
+http://axr.life:80/00006712/MF159357C/923329
+#EXTINF:-1,SBT ES HD (ALT)
+http://axr.life:80/00006712/MF159357C/475650
+#EXTINF:-1,SBT MARANHAO HD
+http://axr.life:80/00006712/MF159357C/923196
+#EXTINF:-1,SBT MG HD
+http://axr.life:80/00006712/MF159357C/923912
+#EXTINF:-1,SBT PARANÁ FHD
+http://axr.life:80/00006712/MF159357C/923376
+#EXTINF:-1,SBT PARANÁ HD
+http://axr.life:80/00006712/MF159357C/923342
+#EXTINF:-1,SBT PIAUI SD
+http://axr.life:80/00006712/MF159357C/923198
+#EXTINF:-1,SBT PR HD (ALT)
+http://axr.life:80/00006712/MF159357C/68527
+#EXTINF:-1,SBT RJ CAPITAL HD (ALT)
+http://axr.life:80/00006712/MF159357C/68529
+#EXTINF:-1,SBT RJ FHD
+http://axr.life:80/00006712/MF159357C/923353
+#EXTINF:-1,SBT RJ HD
+http://axr.life:80/00006712/MF159357C/923350
+#EXTINF:-1,SBT RS HD
+http://axr.life:80/00006712/MF159357C/923330
+#EXTINF:-1,SBT SD
+http://axr.life:80/00006712/MF159357C/923497
+#EXTINF:-1,SBT SERGIPE HD
+http://axr.life:80/00006712/MF159357C/923331
+#EXTINF:-1,SBT SERRA DOURADA H265
+http://axr.life:80/00006712/MF159357C/923287
+#EXTINF:-1,SBT SERRA DOURADA HD
+http://axr.life:80/00006712/MF159357C/923062
+#EXTINF:-1,SBT SP FHD 
+http://axr.life:80/00006712/MF159357C/923894
+#EXTINF:-1,SBT SP FHD (ALT)
+http://axr.life:80/00006712/MF159357C/68532
+#EXTINF:-1,SBT SP HD
+http://axr.life:80/00006712/MF159357C/923395
+#EXTINF:-1,SBT SP HD (ALT)
+http://axr.life:80/00006712/MF159357C/68531
+#EXTINF:-1,SBT SP SD (ALT)
+http://axr.life:80/00006712/MF159357C/475649
+#EXTINF:-1,SBT TV ALTEROSA HD
+http://axr.life:80/00006712/MF159357C/923911
+#EXTINF:-1,SBT VTV CAMPINAS FHD
+http://axr.life:80/00006712/MF159357C/923365
+#EXTINF:-1,SBT VTV CAMPINAS HD
+http://axr.life:80/00006712/MF159357C/923364
+#EXTINF:-1,SPACE  H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923269
+#EXTINF:-1,SPACE FHD
+http://axr.life:80/00006712/MF159357C/5261
+#EXTINF:-1,SPACE FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923870
+#EXTINF:-1,SPACE HD
+http://axr.life:80/00006712/MF159357C/5109
+#EXTINF:-1,SPACE HD (ALT)
+http://axr.life:80/00006712/MF159357C/923043
+#EXTINF:-1,SPACE SD
+http://axr.life:80/00006712/MF159357C/49321
+#EXTINF:-1,SPACE SD (ALT)
+http://axr.life:80/00006712/MF159357C/923500
+#EXTINF:-1,SPORT ITALIA HD
+http://axr.life:80/00006712/MF159357C/923171
+#EXTINF:-1,SPORTV  H265
+http://axr.life:80/00006712/MF159357C/923272
+#EXTINF:-1,SPORTV 2 FHD
+http://axr.life:80/00006712/MF159357C/5262
+#EXTINF:-1,SPORTV 2 FHD  (ALT)
+http://axr.life:80/00006712/MF159357C/923803
+#EXTINF:-1,SPORTV 2 H265
+http://axr.life:80/00006712/MF159357C/923270
+#EXTINF:-1,SPORTV 2 HD
+http://axr.life:80/00006712/MF159357C/5110
+#EXTINF:-1,SPORTV 2 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923044
+#EXTINF:-1,SPORTV 2 SD
+http://axr.life:80/00006712/MF159357C/5495
+#EXTINF:-1,SPORTV 2 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923502
+#EXTINF:-1,SPORTV 3 FHD
+http://axr.life:80/00006712/MF159357C/5263
+#EXTINF:-1,SPORTV 3 FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923804
+#EXTINF:-1,SPORTV 3 H265
+http://axr.life:80/00006712/MF159357C/923271
+#EXTINF:-1,SPORTV 3 HD
+http://axr.life:80/00006712/MF159357C/5111
+#EXTINF:-1,SPORTV 3 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923045
+#EXTINF:-1,SPORTV 3 SD
+http://axr.life:80/00006712/MF159357C/5496
+#EXTINF:-1,SPORTV 3 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923503
+#EXTINF:-1,SPORTV 4K
+http://axr.life:80/00006712/MF159357C/923299
+#EXTINF:-1,SPORTV FHD
+http://axr.life:80/00006712/MF159357C/29359
+#EXTINF:-1,SPORTV FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923802
+#EXTINF:-1,SPORTV HD
+http://axr.life:80/00006712/MF159357C/5112
+#EXTINF:-1,SPORTV HD (ALT)
+http://axr.life:80/00006712/MF159357C/923046
+#EXTINF:-1,SPORTV SD
+http://axr.life:80/00006712/MF159357C/5494
+#EXTINF:-1,SPORTV SD (ALT)
+http://axr.life:80/00006712/MF159357C/923501
+#EXTINF:-1,STAR + 2 HD
+http://axr.life:80/00006712/MF159357C/923177
+#EXTINF:-1,STAR + 3 HD
+http://axr.life:80/00006712/MF159357C/923178
+#EXTINF:-1,STAR + HD
+http://axr.life:80/00006712/MF159357C/923172
+#EXTINF:-1,STAR CHANNEL FHD
+http://axr.life:80/00006712/MF159357C/5220
+#EXTINF:-1,STAR CHANNEL FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923862
+#EXTINF:-1,STAR CHANNEL FHD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923705
+#EXTINF:-1,STAR CHANNEL H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923232
+#EXTINF:-1,STAR CHANNEL HD
+http://axr.life:80/00006712/MF159357C/5067
+#EXTINF:-1,STAR CHANNEL HD (ALT)
+http://axr.life:80/00006712/MF159357C/923003
+#EXTINF:-1,STAR CHANNEL HD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923706
+#EXTINF:-1,STAR CHANNEL SD
+http://axr.life:80/00006712/MF159357C/5817
+#EXTINF:-1,STAR CHANNEL SD (ALT)
+http://axr.life:80/00006712/MF159357C/923439
+#EXTINF:-1,STAR LIFE FHD
+http://axr.life:80/00006712/MF159357C/923863
+#EXTINF:-1,STAR LIFE HD
+http://axr.life:80/00006712/MF159357C/923004
+#EXTINF:-1,STAR LIFE SD
+http://axr.life:80/00006712/MF159357C/923440
+#EXTINF:-1,STAR+ 1 HD
+http://axr.life:80/00006712/MF159357C/442153
+#EXTINF:-1,STAR+ 2 HD
+http://axr.life:80/00006712/MF159357C/442154
+#EXTINF:-1,STAR+ 3 HD
+http://axr.life:80/00006712/MF159357C/442155
+#EXTINF:-1,STUDIO UNIVERSAL  H265
+http://axr.life:80/00006712/MF159357C/923273
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://axr.life:80/00006712/MF159357C/5265
+#EXTINF:-1,STUDIO UNIVERSAL FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923871
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://axr.life:80/00006712/MF159357C/5113
+#EXTINF:-1,STUDIO UNIVERSAL HD (ALT)
+http://axr.life:80/00006712/MF159357C/923047
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://axr.life:80/00006712/MF159357C/5497
+#EXTINF:-1,STUDIO UNIVERSAL SD (ALT)
+http://axr.life:80/00006712/MF159357C/923504
+#EXTINF:-1,SYFY FHD
+http://axr.life:80/00006712/MF159357C/5266
+#EXTINF:-1,SYFY FHD
+http://axr.life:80/00006712/MF159357C/923881
+#EXTINF:-1,SYFY H265
+http://axr.life:80/00006712/MF159357C/923274
+#EXTINF:-1,SYFY HD
+http://axr.life:80/00006712/MF159357C/5114
+#EXTINF:-1,SYFY HD (ALT)
+http://axr.life:80/00006712/MF159357C/923048
+#EXTINF:-1,SYFY SD
+http://axr.life:80/00006712/MF159357C/5498
+#EXTINF:-1,SYFY SD (ALT)
+http://axr.life:80/00006712/MF159357C/923505
+#EXTINF:-1,TABELA DO BRASILEIRÃO 2022
+http://axr.life:80/00006712/MF159357C/928631
+#EXTINF:-1,TBS  H265 
+http://axr.life:80/00006712/MF159357C/923275
+#EXTINF:-1,TBS FHD
+http://axr.life:80/00006712/MF159357C/5267
+#EXTINF:-1,TBS FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923880
+#EXTINF:-1,TBS HD
+http://axr.life:80/00006712/MF159357C/5115
+#EXTINF:-1,TBS HD (ALT)
+http://axr.life:80/00006712/MF159357C/923049
+#EXTINF:-1,TBS SD
+http://axr.life:80/00006712/MF159357C/923506
+#EXTINF:-1,TCM FHD
+http://axr.life:80/00006712/MF159357C/923901
+#EXTINF:-1,TCM HD
+http://axr.life:80/00006712/MF159357C/923103
+#EXTINF:-1,TCM SD
+http://axr.life:80/00006712/MF159357C/923507
+#EXTINF:-1,TELECINE ACTION FHD
+http://axr.life:80/00006712/MF159357C/5268
+#EXTINF:-1,TELECINE ACTION FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923813
+#EXTINF:-1,TELECINE ACTION FHD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923685
+#EXTINF:-1,TELECINE ACTION H265
+http://axr.life:80/00006712/MF159357C/923276
+#EXTINF:-1,TELECINE ACTION HD
+http://axr.life:80/00006712/MF159357C/5116
+#EXTINF:-1,TELECINE ACTION HD (ALT)
+http://axr.life:80/00006712/MF159357C/923050
+#EXTINF:-1,TELECINE ACTION HD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923686
+#EXTINF:-1,TELECINE ACTION SD
+http://axr.life:80/00006712/MF159357C/5501
+#EXTINF:-1,TELECINE ACTION SD (ALT)
+http://axr.life:80/00006712/MF159357C/923508
+#EXTINF:-1,TELECINE CULT FHD
+http://axr.life:80/00006712/MF159357C/5269
+#EXTINF:-1,TELECINE CULT FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923817
+#EXTINF:-1,TELECINE CULT FHD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923691
+#EXTINF:-1,TELECINE CULT H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923277
+#EXTINF:-1,TELECINE CULT HD
+http://axr.life:80/00006712/MF159357C/5117
+#EXTINF:-1,TELECINE CULT HD (ALT)
+http://axr.life:80/00006712/MF159357C/923051
+#EXTINF:-1,TELECINE CULT HD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923692
+#EXTINF:-1,TELECINE CULT SD
+http://axr.life:80/00006712/MF159357C/5502
+#EXTINF:-1,TELECINE CULT SD (ALT)
+http://axr.life:80/00006712/MF159357C/923509
+#EXTINF:-1,TELECINE FUN FHD
+http://axr.life:80/00006712/MF159357C/5270
+#EXTINF:-1,TELECINE FUN FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923816
+#EXTINF:-1,TELECINE FUN FHD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923689
+#EXTINF:-1,TELECINE FUN H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923278
+#EXTINF:-1,TELECINE FUN HD
+http://axr.life:80/00006712/MF159357C/5118
+#EXTINF:-1,TELECINE FUN HD (ALT)
+http://axr.life:80/00006712/MF159357C/923052
+#EXTINF:-1,TELECINE FUN HD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923690
+#EXTINF:-1,TELECINE FUN SD
+http://axr.life:80/00006712/MF159357C/5503
+#EXTINF:-1,TELECINE FUN SD (ALT)
+http://axr.life:80/00006712/MF159357C/923510
+#EXTINF:-1,TELECINE PIPOCA FHD 
+http://axr.life:80/00006712/MF159357C/5271
+#EXTINF:-1,TELECINE PIPOCA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923815
+#EXTINF:-1,TELECINE PIPOCA FHH (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923681
+#EXTINF:-1,TELECINE PIPOCA H265 
+http://axr.life:80/00006712/MF159357C/923279
+#EXTINF:-1,TELECINE PIPOCA HD
+http://axr.life:80/00006712/MF159357C/5119
+#EXTINF:-1,TELECINE PIPOCA HD (ALT)
+http://axr.life:80/00006712/MF159357C/923053
+#EXTINF:-1,TELECINE PIPOCA HD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923682
+#EXTINF:-1,TELECINE PIPOCA SD
+http://axr.life:80/00006712/MF159357C/5504
+#EXTINF:-1,TELECINE PIPOCA SD (ALT)
+http://axr.life:80/00006712/MF159357C/923511
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://axr.life:80/00006712/MF159357C/5272
+#EXTINF:-1,TELECINE PREMIUM FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923812
+#EXTINF:-1,TELECINE PREMIUM FHD H264 (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923683
+#EXTINF:-1,TELECINE PREMIUM H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923280
+#EXTINF:-1,TELECINE PREMIUM HD
+http://axr.life:80/00006712/MF159357C/5120
+#EXTINF:-1,TELECINE PREMIUM HD (ALT)
+http://axr.life:80/00006712/MF159357C/923054
+#EXTINF:-1,TELECINE PREMIUM HD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923684
+#EXTINF:-1,TELECINE PREMIUM SD
+http://axr.life:80/00006712/MF159357C/5505
+#EXTINF:-1,TELECINE PREMIUM SD (ALT)
+http://axr.life:80/00006712/MF159357C/923512
+#EXTINF:-1,TELECINE TOUCH FHD
+http://axr.life:80/00006712/MF159357C/5273
+#EXTINF:-1,TELECINE TOUCH FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923814
+#EXTINF:-1,TELECINE TOUCH FHD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923687
+#EXTINF:-1,TELECINE TOUCH H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923281
+#EXTINF:-1,TELECINE TOUCH HD
+http://axr.life:80/00006712/MF159357C/5121
+#EXTINF:-1,TELECINE TOUCH HD (ALT)
+http://axr.life:80/00006712/MF159357C/923055
+#EXTINF:-1,TELECINE TOUCH HD (LEGENDADO)
+http://axr.life:80/00006712/MF159357C/923688
+#EXTINF:-1,TELECINE TOUCH SD
+http://axr.life:80/00006712/MF159357C/5506
+#EXTINF:-1,TELECINE TOUCH SD (ALT)
+http://axr.life:80/00006712/MF159357C/923513
+#EXTINF:-1,TERRA VIVA HD
+http://axr.life:80/00006712/MF159357C/374284
+#EXTINF:-1,TERRA VIVA SD
+http://axr.life:80/00006712/MF159357C/923514
+#EXTINF:-1,TLC FHD
+http://axr.life:80/00006712/MF159357C/5274
+#EXTINF:-1,TLC FHD
+http://axr.life:80/00006712/MF159357C/923835
+#EXTINF:-1,TLC H265
+http://axr.life:80/00006712/MF159357C/923282
+#EXTINF:-1,TLC HD
+http://axr.life:80/00006712/MF159357C/354854
+#EXTINF:-1,TLC HD (ALT)
+http://axr.life:80/00006712/MF159357C/923056
+#EXTINF:-1,TLC SD
+http://axr.life:80/00006712/MF159357C/5500
+#EXTINF:-1,TLC SD (ALT)
+http://axr.life:80/00006712/MF159357C/923515
+#EXTINF:-1,TNT FHD
+http://axr.life:80/00006712/MF159357C/5275
+#EXTINF:-1,TNT FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923811
+#EXTINF:-1,TNT FHD H265
+http://axr.life:80/00006712/MF159357C/923283
+#EXTINF:-1,TNT HD
+http://axr.life:80/00006712/MF159357C/5123
+#EXTINF:-1,TNT HD (ALT)
+http://axr.life:80/00006712/MF159357C/923057
+#EXTINF:-1,TNT SD
+http://axr.life:80/00006712/MF159357C/5509
+#EXTINF:-1,TNT SD (ALT)
+http://axr.life:80/00006712/MF159357C/923516
+#EXTINF:-1,TNT SERIES FHD
+http://axr.life:80/00006712/MF159357C/5276
+#EXTINF:-1,TNT SERIES FHD
+http://axr.life:80/00006712/MF159357C/923873
+#EXTINF:-1,TNT SERIES FHD H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923284
+#EXTINF:-1,TNT SERIES HD
+http://axr.life:80/00006712/MF159357C/5124
+#EXTINF:-1,TNT SERIES HD (ALT)
+http://axr.life:80/00006712/MF159357C/923058
+#EXTINF:-1,TNT SERIES SD
+http://axr.life:80/00006712/MF159357C/5510
+#EXTINF:-1,TNT SERIES SD (ALT)
+http://axr.life:80/00006712/MF159357C/923517
+#EXTINF:-1,TOONCAST FHD
+http://axr.life:80/00006712/MF159357C/923860
+#EXTINF:-1,TOONCAST HD
+http://axr.life:80/00006712/MF159357C/5511
+#EXTINF:-1,TOONCAST HD (ALT)
+http://axr.life:80/00006712/MF159357C/923096
+#EXTINF:-1,TOONCAST SD
+http://axr.life:80/00006712/MF159357C/923518
+#EXTINF:-1,TRAVEL BOX BRASIL FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923908
+#EXTINF:-1,TRAVEL BOX BRASIL HD
+http://axr.life:80/00006712/MF159357C/923108
+#EXTINF:-1,Travel Box Brazil FHD
+http://axr.life:80/00006712/MF159357C/384894
+#EXTINF:-1,TRUT TV FHD
+http://axr.life:80/00006712/MF159357C/923902
+#EXTINF:-1,TRUT TV HD
+http://axr.life:80/00006712/MF159357C/923104
+#EXTINF:-1,TRUTV SD
+http://axr.life:80/00006712/MF159357C/923519
+#EXTINF:-1,TV ANHAGUERA HD
+http://axr.life:80/00006712/MF159357C/923059
+#EXTINF:-1,TV APARECIDA FHD
+http://axr.life:80/00006712/MF159357C/374358
+#EXTINF:-1,TV APARECIDA HD
+http://axr.life:80/00006712/MF159357C/57362
+#EXTINF:-1,TV APARECIDA SD
+http://axr.life:80/00006712/MF159357C/923521
+#EXTINF:-1,TV ASA BRANCA FHD
+http://axr.life:80/00006712/MF159357C/923110
+#EXTINF:-1,TV BRASIL HD
+http://axr.life:80/00006712/MF159357C/374285
+#EXTINF:-1,TV BRASIL HD (ALT)
+http://axr.life:80/00006712/MF159357C/923093
+#EXTINF:-1,TV CAMARA
+http://axr.life:80/00006712/MF159357C/786782
+#EXTINF:-1,TV CAMERA SD
+http://axr.life:80/00006712/MF159357C/923523
+#EXTINF:-1,TV CLUBE HD
+http://axr.life:80/00006712/MF159357C/923713
+#EXTINF:-1,TV Cultura HD
+http://axr.life:80/00006712/MF159357C/374286
+#EXTINF:-1,TV CULTURA SD
+http://axr.life:80/00006712/MF159357C/923525
+#EXTINF:-1,TV ESCOLA SD
+http://axr.life:80/00006712/MF159357C/923546
+#EXTINF:-1,TV EVANGELIZAR SD
+http://axr.life:80/00006712/MF159357C/374381
+#EXTINF:-1,TV EVANGELIZAR SD (ALT)
+http://axr.life:80/00006712/MF159357C/923548
+#EXTINF:-1,TV GAZETA VITORIA ES FHD
+http://axr.life:80/00006712/MF159357C/923771
+#EXTINF:-1,TV GIDEOES HD
+http://axr.life:80/00006712/MF159357C/923125
+#EXTINF:-1,TV GLOBINHO FHD
+http://axr.life:80/00006712/MF159357C/923854
+#EXTINF:-1,TV GLOBINHO HD
+http://axr.life:80/00006712/MF159357C/923095
+#EXTINF:-1,TV JUSTIÇA SD
+http://axr.life:80/00006712/MF159357C/923526
+#EXTINF:-1,TV MUNDIAL SD²
+http://axr.life:80/00006712/MF159357C/374360
+#EXTINF:-1,TV NSPORTS HD (JOGO 1)
+http://axr.life:80/00006712/MF159357C/442148
+#EXTINF:-1,TV NSPORTS HD (JOGO 1) (ALT)
+http://axr.life:80/00006712/MF159357C/923133
+#EXTINF:-1,TV NSPORTS HD (JOGO 2)
+http://axr.life:80/00006712/MF159357C/442147
+#EXTINF:-1,TV NSPORTS HD (JOGO 2) (ALT)
+http://axr.life:80/00006712/MF159357C/923134
+#EXTINF:-1,TV NSPORTS HD (JOGO 3)
+http://axr.life:80/00006712/MF159357C/442146
+#EXTINF:-1,TV NSPORTS HD (JOGO 3) (ALT)
+http://axr.life:80/00006712/MF159357C/923135
+#EXTINF:-1,TV PAI ETERNO FHD
+http://axr.life:80/00006712/MF159357C/374383
+#EXTINF:-1,TV PAI ETERNO HD
+http://axr.life:80/00006712/MF159357C/374382
+#EXTINF:-1,TV PAI ETERNO HD (ALT)
+http://axr.life:80/00006712/MF159357C/923128
+#EXTINF:-1,TV RA TIM BUM FHD
+http://axr.life:80/00006712/MF159357C/465346
+#EXTINF:-1,TV RA TIM BUM HD
+http://axr.life:80/00006712/MF159357C/5127
+#EXTINF:-1,TV RA TIM BUM HD (ALT)
+http://axr.life:80/00006712/MF159357C/923061
+#EXTINF:-1,TV RA TIM BUM SD
+http://axr.life:80/00006712/MF159357C/5521
+#EXTINF:-1,TV SENADO SD
+http://axr.life:80/00006712/MF159357C/923529
+#EXTINF:-1,TV TEM BAURU HD
+http://axr.life:80/00006712/MF159357C/923734
+#EXTINF:-1,TV UNIVERSAL SD
+http://axr.life:80/00006712/MF159357C/374385
+#EXTINF:-1,TV VANGUARDA TAUBATE FHD (ALT)
+http://axr.life:80/00006712/MF159357C/362708
+#EXTINF:-1,UEFA | ELEVEN 1 HD PORTUGAL
+http://axr.life:80/00006712/MF159357C/893972
+#EXTINF:-1,UEFA | ELEVEN 2 HD PORTUGAL
+http://axr.life:80/00006712/MF159357C/893973
+#EXTINF:-1,UEFA | ELEVEN 3 HD PORTUGAL
+http://axr.life:80/00006712/MF159357C/893974
+#EXTINF:-1,UEFA | ELEVEN 4 HD PORTUGAL
+http://axr.life:80/00006712/MF159357C/893975
+#EXTINF:-1,UEFA | ELEVEN 5 HD PORTUGAL
+http://axr.life:80/00006712/MF159357C/893976
+#EXTINF:-1,UEFA | ELEVEN 6 HD PORTUGAL
+http://axr.life:80/00006712/MF159357C/893977
+#EXTINF:-1,UNIVERSAL TV  H265
+http://axr.life:80/00006712/MF159357C/923288
+#EXTINF:-1,UNIVERSAL TV FHD
+http://axr.life:80/00006712/MF159357C/5280
+#EXTINF:-1,UNIVERSAL TV FHD (ALT) 
+http://axr.life:80/00006712/MF159357C/923872
+#EXTINF:-1,UNIVERSAL TV HD
+http://axr.life:80/00006712/MF159357C/5129
+#EXTINF:-1,UNIVERSAL TV HD (ALT)
+http://axr.life:80/00006712/MF159357C/923063
+#EXTINF:-1,UNIVERSAL TV SD
+http://axr.life:80/00006712/MF159357C/5535
+#EXTINF:-1,UNIVERSAL TV SD (ALT)
+http://axr.life:80/00006712/MF159357C/923542
+#EXTINF:-1,VENUS HD
+http://axr.life:80/00006712/MF159357C/923926
+#EXTINF:-1,VH1 FHD
+http://axr.life:80/00006712/MF159357C/384343
+#EXTINF:-1,VH1 H265 DUAL AUDIO
+http://axr.life:80/00006712/MF159357C/923289
+#EXTINF:-1,VH1 HD
+http://axr.life:80/00006712/MF159357C/384382
+#EXTINF:-1,VH1 HD (ALT)
+http://axr.life:80/00006712/MF159357C/923064
+#EXTINF:-1,VH1 SD
+http://axr.life:80/00006712/MF159357C/5529
+#EXTINF:-1,VH1 SD (ALT)
+http://axr.life:80/00006712/MF159357C/923536
+#EXTINF:-1,VILLA MIX SD
+http://axr.life:80/00006712/MF159357C/923157
+#EXTINF:-1,VIVA FHD
+http://axr.life:80/00006712/MF159357C/30742
+#EXTINF:-1,VIVA FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923889
+#EXTINF:-1,VIVA HD
+http://axr.life:80/00006712/MF159357C/5131
+#EXTINF:-1,VIVA HD (ALT)
+http://axr.life:80/00006712/MF159357C/923065
+#EXTINF:-1,VIVA SD
+http://axr.life:80/00006712/MF159357C/5530
+#EXTINF:-1,VIVA SD (ALT)
+http://axr.life:80/00006712/MF159357C/923537
+#EXTINF:-1,VIVID RED
+http://axr.life:80/00006712/MF159357C/923925
+#EXTINF:-1,WARNER CHANNEL FHD
+http://axr.life:80/00006712/MF159357C/5282
+#EXTINF:-1,WARNER CHANNEL FHD (ALT)
+http://axr.life:80/00006712/MF159357C/923874
+#EXTINF:-1,WARNER CHANNEL HD
+http://axr.life:80/00006712/MF159357C/5132
+#EXTINF:-1,WARNER CHANNEL HD (ALT)
+http://axr.life:80/00006712/MF159357C/923066
+#EXTINF:-1,WARNER CHANNEL SD
+http://axr.life:80/00006712/MF159357C/5531
+#EXTINF:-1,WARNER CHANNEL SD (ALT)
+http://axr.life:80/00006712/MF159357C/923538
+#EXTINF:-1,WARNER H265 :
+http://axr.life:80/00006712/MF159357C/923290
+#EXTINF:-1,WOOHOO FHD
+http://axr.life:80/00006712/MF159357C/5283
+#EXTINF:-1,WOOHOO H265
+http://axr.life:80/00006712/MF159357C/923291
+#EXTINF:-1,WOOHOO HD
+http://axr.life:80/00006712/MF159357C/5532
+#EXTINF:-1,WOOHOO SD
+http://axr.life:80/00006712/MF159357C/923539
+#EXTINF:-1,WOOHOO TV FHD
+http://axr.life:80/00006712/MF159357C/923899
+#EXTINF:-1,WOOHOO TV HD (ALT)
+http://axr.life:80/00006712/MF159357C/923101
+#EXTINF:-1,ZOOMOO FHD
+http://axr.life:80/00006712/MF159357C/923858
+#EXTINF:-1,ZOOMOO HD
+http://axr.life:80/00006712/MF159357C/5533
+#EXTINF:-1,ZOOMOO HD (ALT)
+http://axr.life:80/00006712/MF159357C/923859
+#EXTINF:-1,ZOOMOO SD
+http://axr.life:80/00006712/MF159357C/23669
+#EXTINF:-1,ZOOMOO SD (ALT)
+http://axr.life:80/00006712/MF159357C/923540
+#EXTINF:-1,[24H] - 3 Palavrinhas
+http://axr.life:80/00006712/MF159357C/766529
+#EXTINF:-1,[24H] - A Feiticeira
+http://axr.life:80/00006712/MF159357C/766664
+#EXTINF:-1,[24H] - A Grande Familia
+http://axr.life:80/00006712/MF159357C/766665
+#EXTINF:-1,[24H] - A Vaca e o Frango Temp 1
+http://axr.life:80/00006712/MF159357C/766539
+#EXTINF:-1,[24H] - A Vaca e o Frango Temp 2
+http://axr.life:80/00006712/MF159357C/766540
+#EXTINF:-1,[24H] - A Vaca e o Frango Temp 3
+http://axr.life:80/00006712/MF159357C/766541
+#EXTINF:-1,[24H] - A Vaca e o Frango Temp 4
+http://axr.life:80/00006712/MF159357C/766542
+#EXTINF:-1,[24H] - Agente Carter - T01
+http://axr.life:80/00006712/MF159357C/766667
+#EXTINF:-1,[24H] - Agente Carter - T02
+http://axr.life:80/00006712/MF159357C/766668
+#EXTINF:-1,[24H] - Agora Muppets
+http://axr.life:80/00006712/MF159357C/766669
+#EXTINF:-1,[24H] - Aladin
+http://axr.life:80/00006712/MF159357C/766543
+#EXTINF:-1,[24H] - As Mais Tocadas 2022
+http://axr.life:80/00006712/MF159357C/766825
+#EXTINF:-1,[24H] - As Meninas Superpoderosas
+http://axr.life:80/00006712/MF159357C/766545
+#EXTINF:-1,[24H] - Ben 10
+http://axr.life:80/00006712/MF159357C/766549
+#EXTINF:-1,[24H] - Bluey
+http://axr.life:80/00006712/MF159357C/766663
+#EXTINF:-1,[24H] - Bob Esponja
+http://axr.life:80/00006712/MF159357C/766553
+#EXTINF:-1,[24H] - Breaking Bad
+http://axr.life:80/00006712/MF159357C/766671
+#EXTINF:-1,[24H] - Carrossel 1989
+http://axr.life:80/00006712/MF159357C/766771
+#EXTINF:-1,[24H] - Caverna do Dragão
+http://axr.life:80/00006712/MF159357C/766565
+#EXTINF:-1,[24H] - Chapolin Colorado
+http://axr.life:80/00006712/MF159357C/766673
+#EXTINF:-1,[24H] - Chaves
+http://axr.life:80/00006712/MF159357C/766675
+#EXTINF:-1,[24H] - Chaves Desenho
+http://axr.life:80/00006712/MF159357C/766567
+#EXTINF:-1,[24H] - Corridas Proibidas
+http://axr.life:80/00006712/MF159357C/766677
+#EXTINF:-1,[24H] - Corridas Proibidas 2
+http://axr.life:80/00006712/MF159357C/766734
+#EXTINF:-1,[24H] - Cupom Mania - T01
+http://axr.life:80/00006712/MF159357C/766569
+#EXTINF:-1,[24H] - Cupom Mania - T02
+http://axr.life:80/00006712/MF159357C/766570
+#EXTINF:-1,[24H] - Cupom Mania - T03
+http://axr.life:80/00006712/MF159357C/766571
+#EXTINF:-1,[24H] - Cão Coragem
+http://axr.life:80/00006712/MF159357C/766572
+#EXTINF:-1,[24H] - Denis o Pimentinha
+http://axr.life:80/00006712/MF159357C/766574
+#EXTINF:-1,[24H] - Desenhos Biblicos
+http://axr.life:80/00006712/MF159357C/766575
+#EXTINF:-1,[24H] - Desenhos Disney
+http://axr.life:80/00006712/MF159357C/766577
+#EXTINF:-1,[24H] - Digimon
+http://axr.life:80/00006712/MF159357C/766579
+#EXTINF:-1,[24H] - Dois Homens e Meio 10T
+http://axr.life:80/00006712/MF159357C/766748
+#EXTINF:-1,[24H] - Dois Homens e Meio 11T
+http://axr.life:80/00006712/MF159357C/766749
+#EXTINF:-1,[24H] - Dois Homens e Meio 12T
+http://axr.life:80/00006712/MF159357C/766750
+#EXTINF:-1,[24H] - Dois Homens e Meio 1T
+http://axr.life:80/00006712/MF159357C/766739
+#EXTINF:-1,[24H] - Dois Homens e Meio 2T
+http://axr.life:80/00006712/MF159357C/766740
+#EXTINF:-1,[24H] - Dois Homens e Meio 3T
+http://axr.life:80/00006712/MF159357C/766741
+#EXTINF:-1,[24H] - Dois Homens e Meio 4T
+http://axr.life:80/00006712/MF159357C/766742
+#EXTINF:-1,[24H] - Dois Homens e Meio 5T
+http://axr.life:80/00006712/MF159357C/766743
+#EXTINF:-1,[24H] - Dois Homens e Meio 6T
+http://axr.life:80/00006712/MF159357C/766744
+#EXTINF:-1,[24H] - Dois Homens e Meio 7T
+http://axr.life:80/00006712/MF159357C/766745
+#EXTINF:-1,[24H] - Dois Homens e Meio 8T
+http://axr.life:80/00006712/MF159357C/766746
+#EXTINF:-1,[24H] - Dois Homens e Meio 9T
+http://axr.life:80/00006712/MF159357C/766747
+#EXTINF:-1,[24H] - Doug
+http://axr.life:80/00006712/MF159357C/766580
+#EXTINF:-1,[24H] - Dragon Ball
+http://axr.life:80/00006712/MF159357C/766582
+#EXTINF:-1,[24H] - DRAGON BALL 02
+http://axr.life:80/00006712/MF159357C/766584
+#EXTINF:-1,[24H] - Dragon Ball Z Saga Freeza
+http://axr.life:80/00006712/MF159357C/766586
+#EXTINF:-1,[24H] - Eu a Patroa e as Crianças
+http://axr.life:80/00006712/MF159357C/766680
+#EXTINF:-1,[24H] - Eu A Patroa E As Crianças - Temp 02
+http://axr.life:80/00006712/MF159357C/766682
+#EXTINF:-1,[24H] - Eu A Patroa E As Crianças - Temp 03
+http://axr.life:80/00006712/MF159357C/766683
+#EXTINF:-1,[24H] - Eu A Patroa E As Crianças - Temp 04
+http://axr.life:80/00006712/MF159357C/766684
+#EXTINF:-1,[24H] - Friends - Temp 01
+http://axr.life:80/00006712/MF159357C/766687
+#EXTINF:-1,[24H] - Friends - Temp 02
+http://axr.life:80/00006712/MF159357C/766688
+#EXTINF:-1,[24H] - Friends - Temp 03
+http://axr.life:80/00006712/MF159357C/766689
+#EXTINF:-1,[24H] - Friends - Temp 04
+http://axr.life:80/00006712/MF159357C/766690
+#EXTINF:-1,[24H] - Friends - Temp 05
+http://axr.life:80/00006712/MF159357C/766691
+#EXTINF:-1,[24H] - Friends - Temp 06
+http://axr.life:80/00006712/MF159357C/766692
+#EXTINF:-1,[24H] - Friends - Temp 07
+http://axr.life:80/00006712/MF159357C/766693
+#EXTINF:-1,[24H] - Friends - Temp 08
+http://axr.life:80/00006712/MF159357C/766694
+#EXTINF:-1,[24H] - Friends - Temp 09
+http://axr.life:80/00006712/MF159357C/766695
+#EXTINF:-1,[24H] - Friends - Temp 10
+http://axr.life:80/00006712/MF159357C/766696
+#EXTINF:-1,[24H] - Galinha Pintadinha
+http://axr.life:80/00006712/MF159357C/766587
+#EXTINF:-1,[24H] - Greys Anatomy - T01
+http://axr.life:80/00006712/MF159357C/766762
+#EXTINF:-1,[24H] - Greys Anatomy - T02
+http://axr.life:80/00006712/MF159357C/766763
+#EXTINF:-1,[24H] - Greys Anatomy - T03
+http://axr.life:80/00006712/MF159357C/766764
+#EXTINF:-1,[24H] - Greys Anatomy - T04
+http://axr.life:80/00006712/MF159357C/766765
+#EXTINF:-1,[24H] - Greys Anatomy - T05
+http://axr.life:80/00006712/MF159357C/766766
+#EXTINF:-1,[24H] - Greys Anatomy - T06
+http://axr.life:80/00006712/MF159357C/766767
+#EXTINF:-1,[24H] - Greys Anatomy - T07
+http://axr.life:80/00006712/MF159357C/766768
+#EXTINF:-1,[24H] - Greys Anatomy - T08
+http://axr.life:80/00006712/MF159357C/766769
+#EXTINF:-1,[24H] - Guardiões da Galaxia
+http://axr.life:80/00006712/MF159357C/766589
+#EXTINF:-1,[24H] - Hannah Montana - T01
+http://axr.life:80/00006712/MF159357C/766697
+#EXTINF:-1,[24H] - Hannah Montana - T02
+http://axr.life:80/00006712/MF159357C/766698
+#EXTINF:-1,[24H] - Hannah Montana - T03
+http://axr.life:80/00006712/MF159357C/766699
+#EXTINF:-1,[24H] - Hannah Montana - T04
+http://axr.life:80/00006712/MF159357C/766700
+#EXTINF:-1,[24H] - He-Man
+http://axr.life:80/00006712/MF159357C/766592
+#EXTINF:-1,[24H] - Hip Hop Mix
+http://axr.life:80/00006712/MF159357C/766826
+#EXTINF:-1,[24H] - Historias Disney
+http://axr.life:80/00006712/MF159357C/766593
+#EXTINF:-1,[24H] - iCarly 1T
+http://axr.life:80/00006712/MF159357C/766735
+#EXTINF:-1,[24H] - iCarly 2T
+http://axr.life:80/00006712/MF159357C/766736
+#EXTINF:-1,[24H] - iCarly 3T
+http://axr.life:80/00006712/MF159357C/766737
+#EXTINF:-1,[24H] - iCarly 4T
+http://axr.life:80/00006712/MF159357C/766738
+#EXTINF:-1,[24H] - Inspetor Bugiganga
+http://axr.life:80/00006712/MF159357C/766595
+#EXTINF:-1,[24H] - Masha e o Urso 1T
+http://axr.life:80/00006712/MF159357C/766660
+#EXTINF:-1,[24H] - Masha e o Urso 2T
+http://axr.life:80/00006712/MF159357C/766661
+#EXTINF:-1,[24H] - Masha e o Urso 3T
+http://axr.life:80/00006712/MF159357C/766662
+#EXTINF:-1,[24h] - Missão Harpa
+http://axr.life:80/00006712/MF159357C/766612
+#EXTINF:-1,[24H] - Mr. Bean
+http://axr.life:80/00006712/MF159357C/766702
+#EXTINF:-1,[24H] - Música Eletrônica Academia
+http://axr.life:80/00006712/MF159357C/766827
+#EXTINF:-1,[24H] - Operação Policial - Da Cunha - Temp 1
+http://axr.life:80/00006712/MF159357C/766704
+#EXTINF:-1,[24H] - Operação Policial - Da Cunha - Temp 2
+http://axr.life:80/00006712/MF159357C/766705
+#EXTINF:-1,[24H] - Operação Policial - Da Cunha - Temp 3
+http://axr.life:80/00006712/MF159357C/766706
+#EXTINF:-1,[24H] - Peppa Pig
+http://axr.life:80/00006712/MF159357C/766625
+#EXTINF:-1,[24H] - Peppa Pig Curtas
+http://axr.life:80/00006712/MF159357C/766626
+#EXTINF:-1,[24H] - Pica Pau
+http://axr.life:80/00006712/MF159357C/766627
+#EXTINF:-1,[24H] - Piseiro 1
+http://axr.life:80/00006712/MF159357C/766822
+#EXTINF:-1,[24H] - Piseiro 2
+http://axr.life:80/00006712/MF159357C/766823
+#EXTINF:-1,[24H] - Piseiro 3
+http://axr.life:80/00006712/MF159357C/766824
+#EXTINF:-1,[24H] - Polícia 24 horas - Temp 01
+http://axr.life:80/00006712/MF159357C/766730
+#EXTINF:-1,[24H] - Polícia 24 horas - Temp 02
+http://axr.life:80/00006712/MF159357C/766731
+#EXTINF:-1,[24H] - Polícia 24 horas - Temp 03
+http://axr.life:80/00006712/MF159357C/766732
+#EXTINF:-1,[24H] - Polícia 24 horas - Temp 04
+http://axr.life:80/00006712/MF159357C/766733
+#EXTINF:-1,[24H] - Qual é a Musica? - Silvio Santos
+http://axr.life:80/00006712/MF159357C/766777
+#EXTINF:-1,[24H] - Roda Roda Jequiti
+http://axr.life:80/00006712/MF159357C/766779
+#EXTINF:-1,[24H] - Sertanejo 2022
+http://axr.life:80/00006712/MF159357C/766828
+#EXTINF:-1,[24H] - Snoop Dogg
+http://axr.life:80/00006712/MF159357C/766829
+#EXTINF:-1,[24h] - The Big Bang Theory - Temp 11
+http://axr.life:80/00006712/MF159357C/766720
+#EXTINF:-1,[24h] - The Big Bang Theory - Temp 12
+http://axr.life:80/00006712/MF159357C/766721
+#EXTINF:-1,[24H] - The Walking Dead T01
+http://axr.life:80/00006712/MF159357C/766751
+#EXTINF:-1,[24H] - The Walking Dead T02
+http://axr.life:80/00006712/MF159357C/766752
+#EXTINF:-1,[24H] - The Walking Dead T03
+http://axr.life:80/00006712/MF159357C/766753
+#EXTINF:-1,[24H] - The Walking Dead T04
+http://axr.life:80/00006712/MF159357C/766754
+#EXTINF:-1,[24H] - The Walking Dead T05
+http://axr.life:80/00006712/MF159357C/766755
+#EXTINF:-1,[24H] - The Walking Dead T06
+http://axr.life:80/00006712/MF159357C/766756
+#EXTINF:-1,[24H] - The Walking Dead T07
+http://axr.life:80/00006712/MF159357C/766757
+#EXTINF:-1,[24H] - The Walking Dead T08
+http://axr.life:80/00006712/MF159357C/766758
+#EXTINF:-1,[24H] - The Walking Dead T09
+http://axr.life:80/00006712/MF159357C/766759
+#EXTINF:-1,[24H] - The Walking Dead T10
+http://axr.life:80/00006712/MF159357C/766760
+#EXTINF:-1,[24H] - The Walking Dead T11
+http://axr.life:80/00006712/MF159357C/766761
+#EXTINF:-1,[24H] - Todo Mundo Odeia o Chris - Temp 01
+http://axr.life:80/00006712/MF159357C/766723
+#EXTINF:-1,[24H] - Todo Mundo Odeia o Chris - Temp 02
+http://axr.life:80/00006712/MF159357C/766724
+#EXTINF:-1,[24H] - Todo Mundo Odeia o Chris - Temp 03
+http://axr.life:80/00006712/MF159357C/766725
+#EXTINF:-1,[24H] - Todo Mundo Odeia o Chris - Temp 04
+http://axr.life:80/00006712/MF159357C/766726
+#EXTINF:-1,[24H] - Tomorrow Land
+http://axr.life:80/00006712/MF159357C/766830
+#EXTINF:-1,[24H] - Xena a Guerreira - Temp 01
+http://axr.life:80/00006712/MF159357C/766786
+#EXTINF:-1,[24H] - Xena a Guerreira - Temp 02
+http://axr.life:80/00006712/MF159357C/766787
+#EXTINF:-1,[24H] - Xena a Guerreira - Temp 03
+http://axr.life:80/00006712/MF159357C/766788
+#EXTINF:-1,[24H] - Xena a Guerreira - Temp 04
+http://axr.life:80/00006712/MF159357C/766789
+#EXTINF:-1,[24H] - Xena a Guerreira - Temp 05
+http://axr.life:80/00006712/MF159357C/766790
+#EXTINF:-1,[24H] - Xena a Guerreira - Temp 06
+http://axr.life:80/00006712/MF159357C/766791
+#EXTINF:-1,[24H] ALIENÍGENAS DO PASSADO
+http://axr.life:80/00006712/MF159357C/923680
+#EXTINF:-1,[24H] CORRIDA MALUCA
+http://axr.life:80/00006712/MF159357C/923650
+#EXTINF:-1,[24H] FORMULA 1 2022
+http://axr.life:80/00006712/MF159357C/923192
+#EXTINF:-1,[24H] GÊNESIS
+http://axr.life:80/00006712/MF159357C/923672
+#EXTINF:-1,[24H] JESUS
+http://axr.life:80/00006712/MF159357C/923674
+#EXTINF:-1,[24H] JOSE DO EGITO
+http://axr.life:80/00006712/MF159357C/923661
+#EXTINF:-1,[24H] O RICO E O LAZARO
+http://axr.life:80/00006712/MF159357C/923673
+#EXTINF:-1,[24H] PANTANAL
+http://axr.life:80/00006712/MF159357C/923679
+#EXTINF:-1,[24H] PEQUENOS ESPIOES
+http://axr.life:80/00006712/MF159357C/923663
+#EXTINF:-1,[24H] POWER COUPLE 2022
+http://axr.life:80/00006712/MF159357C/923200
+#EXTINF:-1,[24H] REI DAVI
+http://axr.life:80/00006712/MF159357C/923677
+#EXTINF:-1,[24H] SASSARICANDO 24 HORAS
+http://axr.life:80/00006712/MF159357C/923199
+#EXTINF:-1, BIGTITS HD
+http://axr.life:80/00006712/MF159357C/368831
+#EXTINF:-1, CENTO X CENTO
+http://axr.life:80/00006712/MF159357C/923916
+#EXTINF:-1,A CASA DAS BRASILEIRINHAS
+http://axr.life:80/00006712/MF159357C/923952
+#EXTINF:-1,A CASA DAS BRASILEIRINHAS EP 1
+http://axr.life:80/00006712/MF159357C/923953
